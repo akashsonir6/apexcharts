@@ -1,0 +1,4502 @@
+[
+  {
+    "name": "Chadwick",
+    "father_name": "Abel Mcgowan",
+    "branch": "BCA",
+    "dob": "Dec 7, 2012",
+    "Gender": "male",
+    "Student_id": 1,
+    "batch": 2014
+  },
+  {
+    "name": "Ian",
+    "father_name": "Jacob Huff",
+    "branch": "MCA",
+    "dob": "May 15, 2022",
+    "Gender": "male",
+    "Student_id": 2,
+    "batch": 2016
+  },
+  {
+    "name": "Malik",
+    "father_name": "Emma Parrish",
+    "branch": "BCA",
+    "dob": "Aug 31, 2020",
+    "Gender": "male",
+    "Student_id": 3,
+    "batch": 2016
+  },
+  {
+    "name": "Hu",
+    "father_name": "Rashad Garcia",
+    "branch": "BCA",
+    "dob": "Nov 29, 2022",
+    "Gender": "male",
+    "Student_id": 4,
+    "batch": 2020
+  },
+  {
+    "name": "Ina",
+    "father_name": "Keaton Rivera",
+    "branch": "MCA",
+    "dob": "Dec 16, 2016",
+    "Gender": "male",
+    "Student_id": 5,
+    "batch": 2017
+  },
+  {
+    "name": "Clark",
+    "father_name": "Dorian Wynn",
+    "branch": "MCA",
+    "dob": "Mar 5, 2025",
+    "Gender": "male",
+    "Student_id": 6,
+    "batch": 2015
+  },
+  {
+    "name": "Rae",
+    "father_name": "Griffith Mcfadden",
+    "branch": "MCA",
+    "dob": "Jul 4, 2019",
+    "Gender": "male",
+    "Student_id": 7,
+    "batch": 2019
+  },
+  {
+    "name": "Jarrod",
+    "father_name": "Brady Vega",
+    "branch": "BCA",
+    "dob": "Apr 26, 2015",
+    "Gender": "male",
+    "Student_id": 8,
+    "batch": 2016
+  },
+  {
+    "name": "Nerea",
+    "father_name": "Merritt Morgan",
+    "branch": "MCA",
+    "dob": "Apr 30, 2003",
+    "Gender": "male",
+    "Student_id": 9,
+    "batch": 2018
+  },
+  {
+    "name": "Linus",
+    "father_name": "Eve Mcbride",
+    "branch": "MCA",
+    "dob": "Oct 13, 2002",
+    "Gender": "male",
+    "Student_id": 10,
+    "batch": 2019
+  },
+  {
+    "name": "Jayme",
+    "father_name": "Arden Lang",
+    "branch": "BCA",
+    "dob": "Sep 21, 2009",
+    "Gender": "male",
+    "Student_id": 11,
+    "batch": 2021
+  },
+  {
+    "name": "Lee",
+    "father_name": "Jocelyn Bird",
+    "branch": "MCA",
+    "dob": "Jun 10, 2017",
+    "Gender": "male",
+    "Student_id": 12,
+    "batch": 2022
+  },
+  {
+    "name": "Blaze",
+    "father_name": "Vielka Brewer",
+    "branch": "BCA",
+    "dob": "Jun 22, 2019",
+    "Gender": "male",
+    "Student_id": 13,
+    "batch": 2012
+  },
+  {
+    "name": "Colorado",
+    "father_name": "Rogan Cole",
+    "branch": "MCA",
+    "dob": "Jan 22, 2022",
+    "Gender": "male",
+    "Student_id": 14,
+    "batch": 2017
+  },
+  {
+    "name": "Vaughan",
+    "father_name": "Vaughan Page",
+    "branch": "BCA",
+    "dob": "Apr 30, 2004",
+    "Gender": "male",
+    "Student_id": 15,
+    "batch": 2019
+  },
+  {
+    "name": "Irene",
+    "father_name": "Gay Francis",
+    "branch": "MCA",
+    "dob": "Jun 6, 2008",
+    "Gender": "male",
+    "Student_id": 16,
+    "batch": 2024
+  },
+  {
+    "name": "Fay",
+    "father_name": "Jolie Lee",
+    "branch": "BCA",
+    "dob": "Nov 11, 2004",
+    "Gender": "male",
+    "Student_id": 17,
+    "batch": 2011
+  },
+  {
+    "name": "Brenna",
+    "father_name": "Ebony Espinoza",
+    "branch": "MCA",
+    "dob": "Dec 19, 2020",
+    "Gender": "male",
+    "Student_id": 18,
+    "batch": 2012
+  },
+  {
+    "name": "Keelie",
+    "father_name": "Imogene Keller",
+    "branch": "BCA",
+    "dob": "Feb 28, 2001",
+    "Gender": "male",
+    "Student_id": 19,
+    "batch": 2016
+  },
+  {
+    "name": "Gail",
+    "father_name": "Teegan Robinson",
+    "branch": "BCA",
+    "dob": "Dec 9, 2016",
+    "Gender": "male",
+    "Student_id": 20,
+    "batch": 2016
+  },
+  {
+    "name": "Ramona",
+    "father_name": "Shafira Kramer",
+    "branch": "MCA",
+    "dob": "May 18, 2021",
+    "Gender": "male",
+    "Student_id": 21,
+    "batch": 2017
+  },
+  {
+    "name": "Chancellor",
+    "father_name": "Nicholas Herrera",
+    "branch": "MCA",
+    "dob": "Apr 2, 2004",
+    "Gender": "male",
+    "Student_id": 22,
+    "batch": 2022
+  },
+  {
+    "name": "Sasha",
+    "father_name": "Trevor Cochran",
+    "branch": "BCA",
+    "dob": "Jun 18, 2002",
+    "Gender": "male",
+    "Student_id": 23,
+    "batch": 2016
+  },
+  {
+    "name": "Olympia",
+    "father_name": "Galvin Woodard",
+    "branch": "BCA",
+    "dob": "Mar 11, 2011",
+    "Gender": "male",
+    "Student_id": 24,
+    "batch": 2012
+  },
+  {
+    "name": "Graham",
+    "father_name": "Zorita Phillips",
+    "branch": "BCA",
+    "dob": "Jun 2, 2015",
+    "Gender": "male",
+    "Student_id": 25,
+    "batch": 2019
+  },
+  {
+    "name": "Duncan",
+    "father_name": "Alika Goodwin",
+    "branch": "MCA",
+    "dob": "Oct 29, 2009",
+    "Gender": "male",
+    "Student_id": 26,
+    "batch": 2014
+  },
+  {
+    "name": "Serena",
+    "father_name": "Callum Mcdaniel",
+    "branch": "MCA",
+    "dob": "Jul 26, 2020",
+    "Gender": "male",
+    "Student_id": 27,
+    "batch": 2020
+  },
+  {
+    "name": "Oscar",
+    "father_name": "Alden Montgomery",
+    "branch": "BCA",
+    "dob": "Oct 17, 2002",
+    "Gender": "male",
+    "Student_id": 28,
+    "batch": 2019
+  },
+  {
+    "name": "Hilary",
+    "father_name": "Quyn Hardy",
+    "branch": "MCA",
+    "dob": "Dec 5, 2021",
+    "Gender": "male",
+    "Student_id": 29,
+    "batch": 2023
+  },
+  {
+    "name": "Emery",
+    "father_name": "Shea Huber",
+    "branch": "MCA",
+    "dob": "May 23, 2013",
+    "Gender": "male",
+    "Student_id": 30,
+    "batch": 2014
+  },
+  {
+    "name": "Samuel",
+    "father_name": "Berk Harper",
+    "branch": "BCA",
+    "dob": "Dec 16, 2009",
+    "Gender": "male",
+    "Student_id": 31,
+    "batch": 2023
+  },
+  {
+    "name": "Yeo",
+    "father_name": "Cassandra Willis",
+    "branch": "MCA",
+    "dob": "Jul 9, 2006",
+    "Gender": "male",
+    "Student_id": 32,
+    "batch": 2023
+  },
+  {
+    "name": "Melodie",
+    "father_name": "Andrew Calderon",
+    "branch": "BCA",
+    "dob": "Apr 24, 2016",
+    "Gender": "male",
+    "Student_id": 33,
+    "batch": 2015
+  },
+  {
+    "name": "Zelda",
+    "father_name": "Judah Shepard",
+    "branch": "BCA",
+    "dob": "Jun 8, 2002",
+    "Gender": "male",
+    "Student_id": 34,
+    "batch": 2012
+  },
+  {
+    "name": "Philip",
+    "father_name": "Elaine Dejesus",
+    "branch": "BCA",
+    "dob": "Jul 18, 2012",
+    "Gender": "male",
+    "Student_id": 35,
+    "batch": 2011
+  },
+  {
+    "name": "Kane",
+    "father_name": "Vance Johnson",
+    "branch": "MCA",
+    "dob": "Jul 8, 2023",
+    "Gender": "male",
+    "Student_id": 36,
+    "batch": 2014
+  },
+  {
+    "name": "Quentin",
+    "father_name": "Serena Murphy",
+    "branch": "BCA",
+    "dob": "Nov 28, 2003",
+    "Gender": "male",
+    "Student_id": 37,
+    "batch": 2019
+  },
+  {
+    "name": "Iona",
+    "father_name": "Cullen Weber",
+    "branch": "MCA",
+    "dob": "Apr 27, 2004",
+    "Gender": "male",
+    "Student_id": 38,
+    "batch": 2024
+  },
+  {
+    "name": "Dana",
+    "father_name": "Colette Leonard",
+    "branch": "MCA",
+    "dob": "Oct 9, 2003",
+    "Gender": "male",
+    "Student_id": 39,
+    "batch": 2020
+  },
+  {
+    "name": "Kasimir",
+    "father_name": "Kermit Clements",
+    "branch": "BCA",
+    "dob": "Jun 17, 2014",
+    "Gender": "male",
+    "Student_id": 40,
+    "batch": 2010
+  },
+  {
+    "name": "Yetta",
+    "father_name": "Gabriel Watkins",
+    "branch": "MCA",
+    "dob": "Dec 13, 2021",
+    "Gender": "male",
+    "Student_id": 41,
+    "batch": 2012
+  },
+  {
+    "name": "April",
+    "father_name": "Quinlan Pearson",
+    "branch": "MCA",
+    "dob": "Oct 30, 2002",
+    "Gender": "male",
+    "Student_id": 42,
+    "batch": 2025
+  },
+  {
+    "name": "Vance",
+    "father_name": "Joan Clayton",
+    "branch": "MCA",
+    "dob": "Jan 31, 2011",
+    "Gender": "male",
+    "Student_id": 43,
+    "batch": 2024
+  },
+  {
+    "name": "Nerea",
+    "father_name": "Hilel Holland",
+    "branch": "BCA",
+    "dob": "Nov 1, 2009",
+    "Gender": "male",
+    "Student_id": 44,
+    "batch": 2017
+  },
+  {
+    "name": "Adele",
+    "father_name": "Arthur Cash",
+    "branch": "MCA",
+    "dob": "Aug 5, 2022",
+    "Gender": "male",
+    "Student_id": 45,
+    "batch": 2012
+  },
+  {
+    "name": "Jackson",
+    "father_name": "Herrod Norman",
+    "branch": "MCA",
+    "dob": "Mar 11, 2001",
+    "Gender": "male",
+    "Student_id": 46,
+    "batch": 2011
+  },
+  {
+    "name": "Allegra",
+    "father_name": "Aimee Salinas",
+    "branch": "MCA",
+    "dob": "Jul 25, 2009",
+    "Gender": "male",
+    "Student_id": 47,
+    "batch": 2019
+  },
+  {
+    "name": "Janna",
+    "father_name": "Brooke Buck",
+    "branch": "MCA",
+    "dob": "May 10, 2004",
+    "Gender": "male",
+    "Student_id": 48,
+    "batch": 2017
+  },
+  {
+    "name": "Reece",
+    "father_name": "Demetria Craft",
+    "branch": "BCA",
+    "dob": "Sep 29, 2012",
+    "Gender": "male",
+    "Student_id": 49,
+    "batch": 2021
+  },
+  {
+    "name": "Colton",
+    "father_name": "Montana Cortez",
+    "branch": "MCA",
+    "dob": "Mar 12, 2013",
+    "Gender": "male",
+    "Student_id": 50,
+    "batch": 2025
+  },
+  {
+    "name": "Lila",
+    "father_name": "Joy Hunter",
+    "branch": "MCA",
+    "dob": "Apr 18, 2017",
+    "Gender": "male",
+    "Student_id": 51,
+    "batch": 2020
+  },
+  {
+    "name": "Colt",
+    "father_name": "Russell Cruz",
+    "branch": "MCA",
+    "dob": "Jan 18, 2006",
+    "Gender": "male",
+    "Student_id": 52,
+    "batch": 2020
+  },
+  {
+    "name": "Mari",
+    "father_name": "Kenneth Nielsen",
+    "branch": "BCA",
+    "dob": "Aug 23, 2012",
+    "Gender": "male",
+    "Student_id": 53,
+    "batch": 2017
+  },
+  {
+    "name": "Keegan",
+    "father_name": "Zephr Adkins",
+    "branch": "MCA",
+    "dob": "May 8, 2009",
+    "Gender": "male",
+    "Student_id": 54,
+    "batch": 2017
+  },
+  {
+    "name": "Dana",
+    "father_name": "Shellie Whitney",
+    "branch": "MCA",
+    "dob": "Aug 26, 2005",
+    "Gender": "male",
+    "Student_id": 55,
+    "batch": 2017
+  },
+  {
+    "name": "Heather",
+    "father_name": "Urielle Simmons",
+    "branch": "MCA",
+    "dob": "Apr 21, 2012",
+    "Gender": "male",
+    "Student_id": 56,
+    "batch": 2011
+  },
+  {
+    "name": "Jasper",
+    "father_name": "Josiah Horn",
+    "branch": "BCA",
+    "dob": "Apr 13, 2013",
+    "Gender": "male",
+    "Student_id": 57,
+    "batch": 2013
+  },
+  {
+    "name": "Vanna",
+    "father_name": "Shelly Quinn",
+    "branch": "BCA",
+    "dob": "Jan 22, 2001",
+    "Gender": "male",
+    "Student_id": 58,
+    "batch": 2021
+  },
+  {
+    "name": "Inez",
+    "father_name": "Galena Meyers",
+    "branch": "BCA",
+    "dob": "Dec 13, 2021",
+    "Gender": "male",
+    "Student_id": 59,
+    "batch": 2017
+  },
+  {
+    "name": "Mia",
+    "father_name": "Mariam Skinner",
+    "branch": "BCA",
+    "dob": "Mar 12, 2023",
+    "Gender": "male",
+    "Student_id": 60,
+    "batch": 2010
+  },
+  {
+    "name": "Bernard",
+    "father_name": "Zahir Calhoun",
+    "branch": "BCA",
+    "dob": "Jun 4, 2014",
+    "Gender": "male",
+    "Student_id": 61,
+    "batch": 2017
+  },
+  {
+    "name": "Octavia",
+    "father_name": "Tanner Alvarez",
+    "branch": "BCA",
+    "dob": "Jan 31, 2018",
+    "Gender": "male",
+    "Student_id": 62,
+    "batch": 2023
+  },
+  {
+    "name": "Dolan",
+    "father_name": "Brenda Mcmahon",
+    "branch": "BCA",
+    "dob": "May 23, 2006",
+    "Gender": "male",
+    "Student_id": 63,
+    "batch": 2016
+  },
+  {
+    "name": "Kadeem",
+    "father_name": "Virginia Summers",
+    "branch": "BCA",
+    "dob": "Jul 7, 2009",
+    "Gender": "male",
+    "Student_id": 64,
+    "batch": 2023
+  },
+  {
+    "name": "Dora",
+    "father_name": "Branden Marshall",
+    "branch": "BCA",
+    "dob": "May 18, 2016",
+    "Gender": "male",
+    "Student_id": 65,
+    "batch": 2011
+  },
+  {
+    "name": "Rooney",
+    "father_name": "Alyssa Spencer",
+    "branch": "BCA",
+    "dob": "Jun 8, 2009",
+    "Gender": "male",
+    "Student_id": 66,
+    "batch": 2023
+  },
+  {
+    "name": "Charissa",
+    "father_name": "Colin Kirkland",
+    "branch": "BCA",
+    "dob": "May 21, 2003",
+    "Gender": "male",
+    "Student_id": 67,
+    "batch": 2015
+  },
+  {
+    "name": "Ria",
+    "father_name": "Marah Morris",
+    "branch": "BCA",
+    "dob": "Feb 18, 2001",
+    "Gender": "male",
+    "Student_id": 68,
+    "batch": 2021
+  },
+  {
+    "name": "Dolan",
+    "father_name": "Wyoming Alford",
+    "branch": "BCA",
+    "dob": "Oct 4, 2017",
+    "Gender": "male",
+    "Student_id": 69,
+    "batch": 2012
+  },
+  {
+    "name": "Keith",
+    "father_name": "Anthony Reed",
+    "branch": "MCA",
+    "dob": "Jun 8, 2006",
+    "Gender": "male",
+    "Student_id": 70,
+    "batch": 2017
+  },
+  {
+    "name": "Barrett",
+    "father_name": "Beau Downs",
+    "branch": "BCA",
+    "dob": "Apr 8, 2010",
+    "Gender": "male",
+    "Student_id": 71,
+    "batch": 2022
+  },
+  {
+    "name": "Kaye",
+    "father_name": "Gabriel Booker",
+    "branch": "BCA",
+    "dob": "Apr 20, 2017",
+    "Gender": "male",
+    "Student_id": 72,
+    "batch": 2015
+  },
+  {
+    "name": "Sage",
+    "father_name": "Chelsea Montgomery",
+    "branch": "BCA",
+    "dob": "Oct 18, 2000",
+    "Gender": "male",
+    "Student_id": 73,
+    "batch": 2018
+  },
+  {
+    "name": "Isaac",
+    "father_name": "Scarlet Simpson",
+    "branch": "MCA",
+    "dob": "Nov 24, 2002",
+    "Gender": "male",
+    "Student_id": 74,
+    "batch": 2016
+  },
+  {
+    "name": "Yoshio",
+    "father_name": "Maxwell Waller",
+    "branch": "MCA",
+    "dob": "Mar 19, 2005",
+    "Gender": "male",
+    "Student_id": 75,
+    "batch": 2021
+  },
+  {
+    "name": "Zenaida",
+    "father_name": "Rhoda Ferrell",
+    "branch": "BCA",
+    "dob": "Oct 22, 2003",
+    "Gender": "male",
+    "Student_id": 76,
+    "batch": 2017
+  },
+  {
+    "name": "Phillip",
+    "father_name": "Martha Ross",
+    "branch": "BCA",
+    "dob": "Feb 16, 2015",
+    "Gender": "male",
+    "Student_id": 77,
+    "batch": 2011
+  },
+  {
+    "name": "Emerson",
+    "father_name": "Austin Ray",
+    "branch": "BCA",
+    "dob": "Jul 8, 2003",
+    "Gender": "male",
+    "Student_id": 78,
+    "batch": 2021
+  },
+  {
+    "name": "Jaime",
+    "father_name": "Christopher Shepherd",
+    "branch": "BCA",
+    "dob": "Dec 26, 2013",
+    "Gender": "male",
+    "Student_id": 79,
+    "batch": 2018
+  },
+  {
+    "name": "Alexandra",
+    "father_name": "Shaine Rowland",
+    "branch": "MCA",
+    "dob": "Jun 2, 2025",
+    "Gender": "male",
+    "Student_id": 80,
+    "batch": 2016
+  },
+  {
+    "name": "Sawyer",
+    "father_name": "Tashya Nielsen",
+    "branch": "MCA",
+    "dob": "Jan 19, 2007",
+    "Gender": "male",
+    "Student_id": 81,
+    "batch": 2015
+  },
+  {
+    "name": "Raya",
+    "father_name": "Addison Rhodes",
+    "branch": "MCA",
+    "dob": "Feb 4, 2011",
+    "Gender": "male",
+    "Student_id": 82,
+    "batch": 2024
+  },
+  {
+    "name": "Clinton",
+    "father_name": "Damon Pate",
+    "branch": "BCA",
+    "dob": "Jan 15, 2023",
+    "Gender": "male",
+    "Student_id": 83,
+    "batch": 2014
+  },
+  {
+    "name": "Nerea",
+    "father_name": "Faith Winters",
+    "branch": "BCA",
+    "dob": "Jan 31, 2012",
+    "Gender": "male",
+    "Student_id": 84,
+    "batch": 2018
+  },
+  {
+    "name": "Stuart",
+    "father_name": "Ali Vaughn",
+    "branch": "MCA",
+    "dob": "Dec 26, 2013",
+    "Gender": "male",
+    "Student_id": 85,
+    "batch": 2018
+  },
+  {
+    "name": "Amelia",
+    "father_name": "Quin Cummings",
+    "branch": "BCA",
+    "dob": "Apr 28, 2018",
+    "Gender": "male",
+    "Student_id": 86,
+    "batch": 2012
+  },
+  {
+    "name": "Desiree",
+    "father_name": "Andrew Romero",
+    "branch": "BCA",
+    "dob": "Nov 21, 2021",
+    "Gender": "male",
+    "Student_id": 87,
+    "batch": 2013
+  },
+  {
+    "name": "Carter",
+    "father_name": "Linus Kent",
+    "branch": "BCA",
+    "dob": "Aug 9, 2023",
+    "Gender": "male",
+    "Student_id": 88,
+    "batch": 2023
+  },
+  {
+    "name": "Florence",
+    "father_name": "Gary Boyd",
+    "branch": "MCA",
+    "dob": "Jan 15, 2011",
+    "Gender": "male",
+    "Student_id": 89,
+    "batch": 2022
+  },
+  {
+    "name": "Ross",
+    "father_name": "Hannah Peck",
+    "branch": "MCA",
+    "dob": "Feb 20, 2022",
+    "Gender": "male",
+    "Student_id": 90,
+    "batch": 2013
+  },
+  {
+    "name": "Gary",
+    "father_name": "Yardley Gregory",
+    "branch": "MCA",
+    "dob": "Jun 8, 2001",
+    "Gender": "male",
+    "Student_id": 91,
+    "batch": 2021
+  },
+  {
+    "name": "Yoko",
+    "father_name": "Ahmed Garrett",
+    "branch": "BCA",
+    "dob": "Aug 31, 2016",
+    "Gender": "male",
+    "Student_id": 92,
+    "batch": 2019
+  },
+  {
+    "name": "Omar",
+    "father_name": "Natalie Ingram",
+    "branch": "MCA",
+    "dob": "Jun 21, 2025",
+    "Gender": "male",
+    "Student_id": 93,
+    "batch": 2022
+  },
+  {
+    "name": "Nichole",
+    "father_name": "Jonah Evans",
+    "branch": "MCA",
+    "dob": "Jan 19, 2020",
+    "Gender": "male",
+    "Student_id": 94,
+    "batch": 2016
+  },
+  {
+    "name": "Lydia",
+    "father_name": "Astra Baxter",
+    "branch": "MCA",
+    "dob": "Nov 25, 2016",
+    "Gender": "male",
+    "Student_id": 95,
+    "batch": 2021
+  },
+  {
+    "name": "Kaye",
+    "father_name": "Althea Durham",
+    "branch": "MCA",
+    "dob": "Jan 10, 2016",
+    "Gender": "male",
+    "Student_id": 96,
+    "batch": 2023
+  },
+  {
+    "name": "Carlos",
+    "father_name": "Carlos Mccoy",
+    "branch": "BCA",
+    "dob": "Mar 26, 2016",
+    "Gender": "male",
+    "Student_id": 97,
+    "batch": 2023
+  },
+  {
+    "name": "Odette",
+    "father_name": "Joel Massey",
+    "branch": "MCA",
+    "dob": "May 27, 2025",
+    "Gender": "male",
+    "Student_id": 98,
+    "batch": 2018
+  },
+  {
+    "name": "Courtney",
+    "father_name": "Garth Logan",
+    "branch": "MCA",
+    "dob": "Mar 6, 2011",
+    "Gender": "male",
+    "Student_id": 99,
+    "batch": 2012
+  },
+  {
+    "name": "Raphael",
+    "father_name": "Burke Keller",
+    "branch": "BCA",
+    "dob": "Nov 4, 2024",
+    "Gender": "male",
+    "Student_id": 100,
+    "batch": 2020
+  },
+  {
+    "name": "Gwendolyn",
+    "father_name": "Neve Lloyd",
+    "branch": "BCA",
+    "dob": "Aug 13, 2009",
+    "Gender": "male",
+    "Student_id": 101,
+    "batch": 2016
+  },
+  {
+    "name": "Arden",
+    "father_name": "Gay Brown",
+    "branch": "BCA",
+    "dob": "Nov 22, 2015",
+    "Gender": "male",
+    "Student_id": 102,
+    "batch": 2024
+  },
+  {
+    "name": "Ingrid",
+    "father_name": "Martena Jarvis",
+    "branch": "MCA",
+    "dob": "Jul 22, 2020",
+    "Gender": "male",
+    "Student_id": 103,
+    "batch": 2022
+  },
+  {
+    "name": "Aline",
+    "father_name": "Felicia Conner",
+    "branch": "BCA",
+    "dob": "Oct 1, 2000",
+    "Gender": "male",
+    "Student_id": 104,
+    "batch": 2013
+  },
+  {
+    "name": "Sylvia",
+    "father_name": "Summer Whitehead",
+    "branch": "BCA",
+    "dob": "Jun 13, 2001",
+    "Gender": "male",
+    "Student_id": 105,
+    "batch": 2015
+  },
+  {
+    "name": "Lillith",
+    "father_name": "Hashim Leach",
+    "branch": "MCA",
+    "dob": "Jan 19, 2001",
+    "Gender": "male",
+    "Student_id": 106,
+    "batch": 2020
+  },
+  {
+    "name": "Nyssa",
+    "father_name": "Axel Holman",
+    "branch": "BCA",
+    "dob": "Feb 7, 2003",
+    "Gender": "male",
+    "Student_id": 107,
+    "batch": 2022
+  },
+  {
+    "name": "Roanna",
+    "father_name": "Yardley Green",
+    "branch": "BCA",
+    "dob": "Jun 1, 2004",
+    "Gender": "male",
+    "Student_id": 108,
+    "batch": 2017
+  },
+  {
+    "name": "Finn",
+    "father_name": "Cheyenne Fox",
+    "branch": "BCA",
+    "dob": "Aug 20, 2023",
+    "Gender": "male",
+    "Student_id": 109,
+    "batch": 2021
+  },
+  {
+    "name": "Buffy",
+    "father_name": "Carla Dodson",
+    "branch": "MCA",
+    "dob": "Jan 24, 2011",
+    "Gender": "male",
+    "Student_id": 110,
+    "batch": 2020
+  },
+  {
+    "name": "Lawrence",
+    "father_name": "Lucius Villarreal",
+    "branch": "BCA",
+    "dob": "Aug 9, 2013",
+    "Gender": "male",
+    "Student_id": 111,
+    "batch": 2014
+  },
+  {
+    "name": "Orli",
+    "father_name": "Martina Peterson",
+    "branch": "MCA",
+    "dob": "Feb 22, 2005",
+    "Gender": "male",
+    "Student_id": 112,
+    "batch": 2025
+  },
+  {
+    "name": "Gray",
+    "father_name": "Dorothy Carroll",
+    "branch": "BCA",
+    "dob": "Jun 16, 2022",
+    "Gender": "male",
+    "Student_id": 113,
+    "batch": 2011
+  },
+  {
+    "name": "Carlos",
+    "father_name": "Kiona Lowe",
+    "branch": "MCA",
+    "dob": "Mar 26, 2010",
+    "Gender": "male",
+    "Student_id": 114,
+    "batch": 2016
+  },
+  {
+    "name": "Plato",
+    "father_name": "Keaton Shepherd",
+    "branch": "BCA",
+    "dob": "Oct 24, 2013",
+    "Gender": "male",
+    "Student_id": 115,
+    "batch": 2018
+  },
+  {
+    "name": "Guinevere",
+    "father_name": "Leroy Campbell",
+    "branch": "BCA",
+    "dob": "Sep 23, 2013",
+    "Gender": "male",
+    "Student_id": 116,
+    "batch": 2011
+  },
+  {
+    "name": "Paloma",
+    "father_name": "Keefe Hoover",
+    "branch": "MCA",
+    "dob": "Jul 30, 2016",
+    "Gender": "male",
+    "Student_id": 117,
+    "batch": 2016
+  },
+  {
+    "name": "Duncan",
+    "father_name": "Garrett Weber",
+    "branch": "MCA",
+    "dob": "May 21, 2024",
+    "Gender": "male",
+    "Student_id": 118,
+    "batch": 2019
+  },
+  {
+    "name": "Mason",
+    "father_name": "Bernard White",
+    "branch": "MCA",
+    "dob": "Jan 30, 2012",
+    "Gender": "male",
+    "Student_id": 119,
+    "batch": 2025
+  },
+  {
+    "name": "Charity",
+    "father_name": "Cassandra Hood",
+    "branch": "MCA",
+    "dob": "Apr 27, 2010",
+    "Gender": "male",
+    "Student_id": 120,
+    "batch": 2023
+  },
+  {
+    "name": "Bruno",
+    "father_name": "Naomi Martinez",
+    "branch": "BCA",
+    "dob": "Apr 9, 2014",
+    "Gender": "male",
+    "Student_id": 121,
+    "batch": 2016
+  },
+  {
+    "name": "Jorden",
+    "father_name": "Barbara Sanford",
+    "branch": "BCA",
+    "dob": "Mar 1, 2012",
+    "Gender": "male",
+    "Student_id": 122,
+    "batch": 2019
+  },
+  {
+    "name": "Bradley",
+    "father_name": "Alice Harrington",
+    "branch": "BCA",
+    "dob": "Sep 28, 2015",
+    "Gender": "male",
+    "Student_id": 123,
+    "batch": 2011
+  },
+  {
+    "name": "Moses",
+    "father_name": "Risa Ashley",
+    "branch": "BCA",
+    "dob": "Nov 14, 2013",
+    "Gender": "male",
+    "Student_id": 124,
+    "batch": 2023
+  },
+  {
+    "name": "Meghan",
+    "father_name": "Ahmed Torres",
+    "branch": "MCA",
+    "dob": "May 19, 2011",
+    "Gender": "female",
+    "Student_id": 125,
+    "batch": 2022
+  },
+  {
+    "name": "Fletcher",
+    "father_name": "Alden Carey",
+    "branch": "BCA",
+    "dob": "Jan 31, 2015",
+    "Gender": "female",
+    "Student_id": 126,
+    "batch": 2011
+  },
+  {
+    "name": "Griffin",
+    "father_name": "Kimberley Bean",
+    "branch": "BCA",
+    "dob": "May 18, 2012",
+    "Gender": "female",
+    "Student_id": 127,
+    "batch": 2018
+  },
+  {
+    "name": "Bruce",
+    "father_name": "Roanna Schultz",
+    "branch": "BCA",
+    "dob": "Jul 23, 2006",
+    "Gender": "male",
+    "Student_id": 128,
+    "batch": 2024
+  },
+  {
+    "name": "Cooper",
+    "father_name": "Malcolm Cunningham",
+    "branch": "MCA",
+    "dob": "Sep 1, 2003",
+    "Gender": "female",
+    "Student_id": 129,
+    "batch": 2014
+  },
+  {
+    "name": "Phillip",
+    "father_name": "Jescie Monroe",
+    "branch": "BCA",
+    "dob": "Dec 24, 2019",
+    "Gender": "male",
+    "Student_id": 130,
+    "batch": 2019
+  },
+  {
+    "name": "Leigh",
+    "father_name": "Allen Galloway",
+    "branch": "MCA",
+    "dob": "Aug 21, 2018",
+    "Gender": "female",
+    "Student_id": 131,
+    "batch": 2011
+  },
+  {
+    "name": "Leonard",
+    "father_name": "Christian Fuller",
+    "branch": "BCA",
+    "dob": "Sep 30, 2005",
+    "Gender": "male",
+    "Student_id": 132,
+    "batch": 2013
+  },
+  {
+    "name": "Brady",
+    "father_name": "Inez Sweeney",
+    "branch": "BCA",
+    "dob": "Jan 20, 2006",
+    "Gender": "female",
+    "Student_id": 133,
+    "batch": 2023
+  },
+  {
+    "name": "Signe",
+    "father_name": "Castor Padilla",
+    "branch": "BCA",
+    "dob": "Oct 18, 2015",
+    "Gender": "female",
+    "Student_id": 134,
+    "batch": 2020
+  },
+  {
+    "name": "Gillian",
+    "father_name": "Holmes Austin",
+    "branch": "MCA",
+    "dob": "Jul 13, 2017",
+    "Gender": "male",
+    "Student_id": 135,
+    "batch": 2021
+  },
+  {
+    "name": "David",
+    "father_name": "Selma Byers",
+    "branch": "BCA",
+    "dob": "Jun 4, 2011",
+    "Gender": "male",
+    "Student_id": 136,
+    "batch": 2015
+  },
+  {
+    "name": "Zane",
+    "father_name": "Eliana Cochran",
+    "branch": "MCA",
+    "dob": "Feb 24, 2024",
+    "Gender": "male",
+    "Student_id": 137,
+    "batch": 2012
+  },
+  {
+    "name": "Aphrodite",
+    "father_name": "Hedda Holcomb",
+    "branch": "MCA",
+    "dob": "Mar 18, 2011",
+    "Gender": "male",
+    "Student_id": 138,
+    "batch": 2015
+  },
+  {
+    "name": "Yvette",
+    "father_name": "Shannon Morris",
+    "branch": "MCA",
+    "dob": "Oct 19, 2024",
+    "Gender": "male",
+    "Student_id": 139,
+    "batch": 2010
+  },
+  {
+    "name": "Kane",
+    "father_name": "Leandra Edwards",
+    "branch": "MCA",
+    "dob": "Feb 11, 2006",
+    "Gender": "female",
+    "Student_id": 140,
+    "batch": 2010
+  },
+  {
+    "name": "Iola",
+    "father_name": "Lenore Sawyer",
+    "branch": "BCA",
+    "dob": "Apr 11, 2024",
+    "Gender": "female",
+    "Student_id": 141,
+    "batch": 2023
+  },
+  {
+    "name": "Yetta",
+    "father_name": "Kaseem Olsen",
+    "branch": "BCA",
+    "dob": "Feb 24, 2012",
+    "Gender": "female",
+    "Student_id": 142,
+    "batch": 2015
+  },
+  {
+    "name": "Evelyn",
+    "father_name": "Kai Blanchard",
+    "branch": "MCA",
+    "dob": "Nov 11, 2015",
+    "Gender": "male",
+    "Student_id": 143,
+    "batch": 2020
+  },
+  {
+    "name": "Arden",
+    "father_name": "Nero Riggs",
+    "branch": "MCA",
+    "dob": "Mar 13, 2024",
+    "Gender": "male",
+    "Student_id": 144,
+    "batch": 2021
+  },
+  {
+    "name": "Frances",
+    "father_name": "Brianna Hayes",
+    "branch": "MCA",
+    "dob": "May 10, 2015",
+    "Gender": "male",
+    "Student_id": 145,
+    "batch": 2011
+  },
+  {
+    "name": "Hayden",
+    "father_name": "Elliott Beach",
+    "branch": "MCA",
+    "dob": "Oct 28, 2018",
+    "Gender": "male",
+    "Student_id": 146,
+    "batch": 2018
+  },
+  {
+    "name": "Galvin",
+    "father_name": "Asher Conner",
+    "branch": "BCA",
+    "dob": "Mar 8, 2019",
+    "Gender": "male",
+    "Student_id": 147,
+    "batch": 2017
+  },
+  {
+    "name": "Kaseem",
+    "father_name": "Tyler Berry",
+    "branch": "MCA",
+    "dob": "Aug 29, 2006",
+    "Gender": "male",
+    "Student_id": 148,
+    "batch": 2025
+  },
+  {
+    "name": "Lars",
+    "father_name": "Violet Jefferson",
+    "branch": "MCA",
+    "dob": "Oct 21, 2017",
+    "Gender": "female",
+    "Student_id": 149,
+    "batch": 2024
+  },
+  {
+    "name": "Kevyn",
+    "father_name": "Kelly Gilmore",
+    "branch": "BCA",
+    "dob": "Oct 28, 2014",
+    "Gender": "female",
+    "Student_id": 150,
+    "batch": 2012
+  },
+  {
+    "name": "Ulysses",
+    "father_name": "Talon Gaines",
+    "branch": "MCA",
+    "dob": "Apr 22, 2014",
+    "Gender": "female",
+    "Student_id": 151,
+    "batch": 2016
+  },
+  {
+    "name": "Rhona",
+    "father_name": "Inga Warner",
+    "branch": "BCA",
+    "dob": "Oct 2, 2002",
+    "Gender": "male",
+    "Student_id": 152,
+    "batch": 2019
+  },
+  {
+    "name": "Natalie",
+    "father_name": "Dale Schmidt",
+    "branch": "BCA",
+    "dob": "Nov 10, 2017",
+    "Gender": "male",
+    "Student_id": 153,
+    "batch": 2018
+  },
+  {
+    "name": "James",
+    "father_name": "Wylie Murray",
+    "branch": "BCA",
+    "dob": "Jan 29, 2023",
+    "Gender": "male",
+    "Student_id": 154,
+    "batch": 2023
+  },
+  {
+    "name": "Aladdin",
+    "father_name": "Shelby Vance",
+    "branch": "BCA",
+    "dob": "Nov 12, 2015",
+    "Gender": "male",
+    "Student_id": 155,
+    "batch": 2014
+  },
+  {
+    "name": "Samuel",
+    "father_name": "Carl Terry",
+    "branch": "MCA",
+    "dob": "Jun 6, 2019",
+    "Gender": "male",
+    "Student_id": 156,
+    "batch": 2010
+  },
+  {
+    "name": "Erasmus",
+    "father_name": "Glenna Langley",
+    "branch": "BCA",
+    "dob": "Aug 26, 2013",
+    "Gender": "male",
+    "Student_id": 157,
+    "batch": 2012
+  },
+  {
+    "name": "Cally",
+    "father_name": "Whilemina Harmon",
+    "branch": "BCA",
+    "dob": "Sep 7, 2004",
+    "Gender": "male",
+    "Student_id": 158,
+    "batch": 2023
+  },
+  {
+    "name": "Eugenia",
+    "father_name": "Cain Franco",
+    "branch": "MCA",
+    "dob": "Jul 13, 2011",
+    "Gender": "male",
+    "Student_id": 159,
+    "batch": 2017
+  },
+  {
+    "name": "Nina",
+    "father_name": "Blaze Snyder",
+    "branch": "BCA",
+    "dob": "Oct 3, 2002",
+    "Gender": "male",
+    "Student_id": 160,
+    "batch": 2020
+  },
+  {
+    "name": "Lewis",
+    "father_name": "Cullen Whitaker",
+    "branch": "MCA",
+    "dob": "Sep 12, 2015",
+    "Gender": "female",
+    "Student_id": 161,
+    "batch": 2013
+  },
+  {
+    "name": "Cora",
+    "father_name": "Breanna Bright",
+    "branch": "MCA",
+    "dob": "Jun 10, 2017",
+    "Gender": "male",
+    "Student_id": 162,
+    "batch": 2021
+  },
+  {
+    "name": "Octavius",
+    "father_name": "Burton Bass",
+    "branch": "BCA",
+    "dob": "May 1, 2016",
+    "Gender": "female",
+    "Student_id": 163,
+    "batch": 2022
+  },
+  {
+    "name": "Geraldine",
+    "father_name": "Bernard Decker",
+    "branch": "BCA",
+    "dob": "May 3, 2016",
+    "Gender": "male",
+    "Student_id": 164,
+    "batch": 2012
+  },
+  {
+    "name": "Jordan",
+    "father_name": "Francis Cash",
+    "branch": "BCA",
+    "dob": "Aug 30, 2010",
+    "Gender": "male",
+    "Student_id": 165,
+    "batch": 2021
+  },
+  {
+    "name": "Ivor",
+    "father_name": "Finn Langley",
+    "branch": "MCA",
+    "dob": "Oct 7, 2006",
+    "Gender": "male",
+    "Student_id": 166,
+    "batch": 2025
+  },
+  {
+    "name": "Charlotte",
+    "father_name": "Hanae Blair",
+    "branch": "MCA",
+    "dob": "Apr 10, 2018",
+    "Gender": "male",
+    "Student_id": 167,
+    "batch": 2020
+  },
+  {
+    "name": "Brent",
+    "father_name": "Lynn Herman",
+    "branch": "BCA",
+    "dob": "Mar 11, 2010",
+    "Gender": "male",
+    "Student_id": 168,
+    "batch": 2020
+  },
+  {
+    "name": "Paki",
+    "father_name": "Barbara Collins",
+    "branch": "BCA",
+    "dob": "Feb 5, 2016",
+    "Gender": "female",
+    "Student_id": 169,
+    "batch": 2013
+  },
+  {
+    "name": "Natalie",
+    "father_name": "Bianca Fox",
+    "branch": "MCA",
+    "dob": "Sep 5, 2005",
+    "Gender": "male",
+    "Student_id": 170,
+    "batch": 2011
+  },
+  {
+    "name": "Felix",
+    "father_name": "Isaiah Morales",
+    "branch": "MCA",
+    "dob": "Aug 28, 2012",
+    "Gender": "male",
+    "Student_id": 171,
+    "batch": 2020
+  },
+  {
+    "name": "Rosalyn",
+    "father_name": "Zena Hamilton",
+    "branch": "MCA",
+    "dob": "Sep 22, 2005",
+    "Gender": "female",
+    "Student_id": 172,
+    "batch": 2011
+  },
+  {
+    "name": "Ann",
+    "father_name": "Xena Wells",
+    "branch": "BCA",
+    "dob": "Mar 28, 2001",
+    "Gender": "male",
+    "Student_id": 173,
+    "batch": 2011
+  },
+  {
+    "name": "Rylee",
+    "father_name": "Venus Chapman",
+    "branch": "BCA",
+    "dob": "Aug 30, 2021",
+    "Gender": "male",
+    "Student_id": 174,
+    "batch": 2019
+  },
+  {
+    "name": "Allen",
+    "father_name": "Gabriel Clark",
+    "branch": "MCA",
+    "dob": "Jul 25, 2020",
+    "Gender": "male",
+    "Student_id": 175,
+    "batch": 2023
+  },
+  {
+    "name": "Kelsey",
+    "father_name": "Ursa Barnett",
+    "branch": "BCA",
+    "dob": "Aug 11, 2019",
+    "Gender": "male",
+    "Student_id": 176,
+    "batch": 2014
+  },
+  {
+    "name": "Silas",
+    "father_name": "Cecilia Hebert",
+    "branch": "BCA",
+    "dob": "Apr 1, 2017",
+    "Gender": "female",
+    "Student_id": 177,
+    "batch": 2017
+  },
+  {
+    "name": "Macey",
+    "father_name": "Leo Miles",
+    "branch": "BCA",
+    "dob": "Nov 1, 2001",
+    "Gender": "female",
+    "Student_id": 178,
+    "batch": 2017
+  },
+  {
+    "name": "Cain",
+    "father_name": "Sylvia Vinson",
+    "branch": "BCA",
+    "dob": "Nov 1, 2006",
+    "Gender": "male",
+    "Student_id": 179,
+    "batch": 2020
+  },
+  {
+    "name": "Kirk",
+    "father_name": "Buffy Spence",
+    "branch": "BCA",
+    "dob": "Aug 11, 2009",
+    "Gender": "male",
+    "Student_id": 180,
+    "batch": 2022
+  },
+  {
+    "name": "Hakeem",
+    "father_name": "Chase Crane",
+    "branch": "BCA",
+    "dob": "Sep 12, 2009",
+    "Gender": "female",
+    "Student_id": 181,
+    "batch": 2024
+  },
+  {
+    "name": "Cheryl",
+    "father_name": "Rhiannon Rodriquez",
+    "branch": "BCA",
+    "dob": "Aug 6, 2006",
+    "Gender": "male",
+    "Student_id": 182,
+    "batch": 2021
+  },
+  {
+    "name": "Sydnee",
+    "father_name": "Timothy Rose",
+    "branch": "MCA",
+    "dob": "May 17, 2019",
+    "Gender": "male",
+    "Student_id": 183,
+    "batch": 2017
+  },
+  {
+    "name": "Margaret",
+    "father_name": "Linus Rice",
+    "branch": "BCA",
+    "dob": "Jun 3, 2025",
+    "Gender": "female",
+    "Student_id": 184,
+    "batch": 2016
+  },
+  {
+    "name": "Harding",
+    "father_name": "Britanney Wagner",
+    "branch": "BCA",
+    "dob": "Dec 11, 2001",
+    "Gender": "male",
+    "Student_id": 185,
+    "batch": 2022
+  },
+  {
+    "name": "Sade",
+    "father_name": "Marcia Bruce",
+    "branch": "BCA",
+    "dob": "Aug 25, 2000",
+    "Gender": "male",
+    "Student_id": 186,
+    "batch": 2021
+  },
+  {
+    "name": "Sean",
+    "father_name": "Karly Baird",
+    "branch": "BCA",
+    "dob": "Nov 12, 2016",
+    "Gender": "male",
+    "Student_id": 187,
+    "batch": 2020
+  },
+  {
+    "name": "Keith",
+    "father_name": "Tiger Alexander",
+    "branch": "BCA",
+    "dob": "Jun 3, 2003",
+    "Gender": "female",
+    "Student_id": 188,
+    "batch": 2015
+  },
+  {
+    "name": "Hop",
+    "father_name": "Travis Langley",
+    "branch": "MCA",
+    "dob": "May 27, 2020",
+    "Gender": "female",
+    "Student_id": 189,
+    "batch": 2019
+  },
+  {
+    "name": "Aileen",
+    "father_name": "Dillon Cote",
+    "branch": "MCA",
+    "dob": "Jun 14, 2017",
+    "Gender": "male",
+    "Student_id": 190,
+    "batch": 2024
+  },
+  {
+    "name": "Kelsie",
+    "father_name": "Whitney Mendoza",
+    "branch": "MCA",
+    "dob": "Feb 15, 2016",
+    "Gender": "male",
+    "Student_id": 191,
+    "batch": 2020
+  },
+  {
+    "name": "Bianca",
+    "father_name": "Lyle Sutton",
+    "branch": "MCA",
+    "dob": "Sep 8, 2023",
+    "Gender": "male",
+    "Student_id": 192,
+    "batch": 2015
+  },
+  {
+    "name": "Ezekiel",
+    "father_name": "Mollie Wilcox",
+    "branch": "BCA",
+    "dob": "Jul 20, 2022",
+    "Gender": "female",
+    "Student_id": 193,
+    "batch": 2016
+  },
+  {
+    "name": "Shad",
+    "father_name": "Wyatt Mclean",
+    "branch": "MCA",
+    "dob": "Jul 2, 2019",
+    "Gender": "male",
+    "Student_id": 194,
+    "batch": 2019
+  },
+  {
+    "name": "Jacob",
+    "father_name": "Jeremy Howell",
+    "branch": "BCA",
+    "dob": "May 3, 2025",
+    "Gender": "male",
+    "Student_id": 195,
+    "batch": 2023
+  },
+  {
+    "name": "Iona",
+    "father_name": "Jaquelyn Gray",
+    "branch": "BCA",
+    "dob": "Mar 26, 2018",
+    "Gender": "male",
+    "Student_id": 196,
+    "batch": 2014
+  },
+  {
+    "name": "Fritz",
+    "father_name": "Maia Bullock",
+    "branch": "MCA",
+    "dob": "Jan 29, 2025",
+    "Gender": "male",
+    "Student_id": 197,
+    "batch": 2015
+  },
+  {
+    "name": "Brian",
+    "father_name": "Autumn Suarez",
+    "branch": "BCA",
+    "dob": "Nov 1, 2015",
+    "Gender": "female",
+    "Student_id": 198,
+    "batch": 2019
+  },
+  {
+    "name": "Ignatius",
+    "father_name": "Curran Snyder",
+    "branch": "MCA",
+    "dob": "Dec 30, 2011",
+    "Gender": "male",
+    "Student_id": 199,
+    "batch": 2014
+  },
+  {
+    "name": "Mason",
+    "father_name": "Chadwick Copeland",
+    "branch": "MCA",
+    "dob": "Mar 6, 2002",
+    "Gender": "male",
+    "Student_id": 200,
+    "batch": 2014
+  },
+  {
+    "name": "Tara",
+    "father_name": "Lenore Rivers",
+    "branch": "MCA",
+    "dob": "Mar 3, 2005",
+    "Gender": "female",
+    "Student_id": 201,
+    "batch": 2023
+  },
+  {
+    "name": "Iona",
+    "father_name": "Ava Bright",
+    "branch": "MCA",
+    "dob": "Oct 6, 2011",
+    "Gender": "female",
+    "Student_id": 202,
+    "batch": 2012
+  },
+  {
+    "name": "Bert",
+    "father_name": "Kiona William",
+    "branch": "BCA",
+    "dob": "Mar 3, 2003",
+    "Gender": "female",
+    "Student_id": 203,
+    "batch": 2021
+  },
+  {
+    "name": "Rose",
+    "father_name": "Merritt Moore",
+    "branch": "BCA",
+    "dob": "Feb 23, 2014",
+    "Gender": "female",
+    "Student_id": 204,
+    "batch": 2021
+  },
+  {
+    "name": "Lois",
+    "father_name": "Cadman Morton",
+    "branch": "BCA",
+    "dob": "Jun 9, 2009",
+    "Gender": "female",
+    "Student_id": 205,
+    "batch": 2020
+  },
+  {
+    "name": "Tatum",
+    "father_name": "Margaret Duran",
+    "branch": "MCA",
+    "dob": "May 10, 2011",
+    "Gender": "male",
+    "Student_id": 206,
+    "batch": 2023
+  },
+  {
+    "name": "Jamal",
+    "father_name": "Ian Mccullough",
+    "branch": "MCA",
+    "dob": "Oct 16, 2011",
+    "Gender": "female",
+    "Student_id": 207,
+    "batch": 2015
+  },
+  {
+    "name": "Giselle",
+    "father_name": "Nell Berg",
+    "branch": "BCA",
+    "dob": "Jul 21, 2010",
+    "Gender": "female",
+    "Student_id": 208,
+    "batch": 2011
+  },
+  {
+    "name": "Garth",
+    "father_name": "May Zimmerman",
+    "branch": "MCA",
+    "dob": "Aug 8, 2021",
+    "Gender": "female",
+    "Student_id": 209,
+    "batch": 2017
+  },
+  {
+    "name": "Ursula",
+    "father_name": "Ross Baird",
+    "branch": "MCA",
+    "dob": "Nov 30, 2001",
+    "Gender": "female",
+    "Student_id": 210,
+    "batch": 2016
+  },
+  {
+    "name": "Orson",
+    "father_name": "Quinn Mcmahon",
+    "branch": "BCA",
+    "dob": "Oct 4, 2015",
+    "Gender": "female",
+    "Student_id": 211,
+    "batch": 2019
+  },
+  {
+    "name": "Shellie",
+    "father_name": "Chancellor Sanford",
+    "branch": "BCA",
+    "dob": "Sep 25, 2008",
+    "Gender": "male",
+    "Student_id": 212,
+    "batch": 2010
+  },
+  {
+    "name": "Cassandra",
+    "father_name": "Hayden Dickson",
+    "branch": "MCA",
+    "dob": "Dec 31, 2005",
+    "Gender": "female",
+    "Student_id": 213,
+    "batch": 2010
+  },
+  {
+    "name": "Colton",
+    "father_name": "Elaine Langley",
+    "branch": "BCA",
+    "dob": "Jul 16, 2023",
+    "Gender": "female",
+    "Student_id": 214,
+    "batch": 2020
+  },
+  {
+    "name": "Shay",
+    "father_name": "Burton Keith",
+    "branch": "BCA",
+    "dob": "Sep 3, 2010",
+    "Gender": "male",
+    "Student_id": 215,
+    "batch": 2018
+  },
+  {
+    "name": "Dennis",
+    "father_name": "Sydnee Robles",
+    "branch": "BCA",
+    "dob": "Feb 21, 2013",
+    "Gender": "male",
+    "Student_id": 216,
+    "batch": 2016
+  },
+  {
+    "name": "Danielle",
+    "father_name": "Lyle Bernard",
+    "branch": "MCA",
+    "dob": "Dec 15, 2019",
+    "Gender": "female",
+    "Student_id": 217,
+    "batch": 2017
+  },
+  {
+    "name": "Ali",
+    "father_name": "Rosalyn Sloan",
+    "branch": "BCA",
+    "dob": "Nov 10, 2013",
+    "Gender": "female",
+    "Student_id": 218,
+    "batch": 2012
+  },
+  {
+    "name": "Logan",
+    "father_name": "Rama Gaines",
+    "branch": "BCA",
+    "dob": "Aug 24, 2017",
+    "Gender": "male",
+    "Student_id": 219,
+    "batch": 2011
+  },
+  {
+    "name": "Oliver",
+    "father_name": "Cathleen Daniels",
+    "branch": "BCA",
+    "dob": "Mar 9, 2009",
+    "Gender": "female",
+    "Student_id": 220,
+    "batch": 2023
+  },
+  {
+    "name": "Nyssa",
+    "father_name": "Lavinia Sheppard",
+    "branch": "BCA",
+    "dob": "Jan 20, 2012",
+    "Gender": "female",
+    "Student_id": 221,
+    "batch": 2017
+  },
+  {
+    "name": "Elton",
+    "father_name": "Demetrius Whitley",
+    "branch": "BCA",
+    "dob": "Jun 4, 2023",
+    "Gender": "female",
+    "Student_id": 222,
+    "batch": 2015
+  },
+  {
+    "name": "Anne",
+    "father_name": "Wayne Hill",
+    "branch": "BCA",
+    "dob": "Aug 6, 2012",
+    "Gender": "female",
+    "Student_id": 223,
+    "batch": 2016
+  },
+  {
+    "name": "Kiara",
+    "father_name": "Dacey Mann",
+    "branch": "MCA",
+    "dob": "Sep 26, 2006",
+    "Gender": "female",
+    "Student_id": 224,
+    "batch": 2019
+  },
+  {
+    "name": "Tanisha",
+    "father_name": "Shellie Valenzuela",
+    "branch": "BCA",
+    "dob": "Nov 30, 2006",
+    "Gender": "male",
+    "Student_id": 225,
+    "batch": 2017
+  },
+  {
+    "name": "Tara",
+    "father_name": "Donovan Clemons",
+    "branch": "BCA",
+    "dob": "May 13, 2008",
+    "Gender": "female",
+    "Student_id": 226,
+    "batch": 2018
+  },
+  {
+    "name": "Renee",
+    "father_name": "Noah Chen",
+    "branch": "BCA",
+    "dob": "Sep 10, 2020",
+    "Gender": "male",
+    "Student_id": 227,
+    "batch": 2016
+  },
+  {
+    "name": "Hamish",
+    "father_name": "Althea Bates",
+    "branch": "BCA",
+    "dob": "Feb 22, 2008",
+    "Gender": "male",
+    "Student_id": 228,
+    "batch": 2017
+  },
+  {
+    "name": "Jacob",
+    "father_name": "Jesse Nelson",
+    "branch": "BCA",
+    "dob": "Apr 27, 2024",
+    "Gender": "female",
+    "Student_id": 229,
+    "batch": 2024
+  },
+  {
+    "name": "Jescie",
+    "father_name": "Eaton Dickerson",
+    "branch": "BCA",
+    "dob": "Jun 16, 2006",
+    "Gender": "female",
+    "Student_id": 230,
+    "batch": 2014
+  },
+  {
+    "name": "Kaitlin",
+    "father_name": "Halee Johnston",
+    "branch": "MCA",
+    "dob": "Jul 8, 2012",
+    "Gender": "male",
+    "Student_id": 231,
+    "batch": 2018
+  },
+  {
+    "name": "Briar",
+    "father_name": "Solomon Summers",
+    "branch": "BCA",
+    "dob": "Mar 10, 2019",
+    "Gender": "female",
+    "Student_id": 232,
+    "batch": 2019
+  },
+  {
+    "name": "Daria",
+    "father_name": "Quemby Forbes",
+    "branch": "MCA",
+    "dob": "Apr 24, 2013",
+    "Gender": "male",
+    "Student_id": 233,
+    "batch": 2025
+  },
+  {
+    "name": "Jackson",
+    "father_name": "Declan Ashley",
+    "branch": "MCA",
+    "dob": "Oct 28, 2001",
+    "Gender": "male",
+    "Student_id": 234,
+    "batch": 2011
+  },
+  {
+    "name": "Chase",
+    "father_name": "Cody Oneil",
+    "branch": "MCA",
+    "dob": "Jun 16, 2004",
+    "Gender": "male",
+    "Student_id": 235,
+    "batch": 2011
+  },
+  {
+    "name": "Cleo",
+    "father_name": "Kirk Potter",
+    "branch": "MCA",
+    "dob": "Aug 9, 2021",
+    "Gender": "male",
+    "Student_id": 236,
+    "batch": 2020
+  },
+  {
+    "name": "Madison",
+    "father_name": "Nolan Griffith",
+    "branch": "MCA",
+    "dob": "Jan 15, 2004",
+    "Gender": "male",
+    "Student_id": 237,
+    "batch": 2015
+  },
+  {
+    "name": "Brenda",
+    "father_name": "Reese Tyler",
+    "branch": "MCA",
+    "dob": "May 29, 2024",
+    "Gender": "male",
+    "Student_id": 238,
+    "batch": 2022
+  },
+  {
+    "name": "Denise",
+    "father_name": "Uriah Hebert",
+    "branch": "BCA",
+    "dob": "Jun 15, 2024",
+    "Gender": "male",
+    "Student_id": 239,
+    "batch": 2016
+  },
+  {
+    "name": "Rahim",
+    "father_name": "Tyler Kennedy",
+    "branch": "BCA",
+    "dob": "Oct 4, 2000",
+    "Gender": "male",
+    "Student_id": 240,
+    "batch": 2010
+  },
+  {
+    "name": "Mufutau",
+    "father_name": "Dale Hendricks",
+    "branch": "MCA",
+    "dob": "Mar 30, 2009",
+    "Gender": "female",
+    "Student_id": 241,
+    "batch": 2018
+  },
+  {
+    "name": "Karina",
+    "father_name": "Castor Mcdaniel",
+    "branch": "BCA",
+    "dob": "Apr 12, 2016",
+    "Gender": "female",
+    "Student_id": 242,
+    "batch": 2010
+  },
+  {
+    "name": "Nasim",
+    "father_name": "Tyrone Houston",
+    "branch": "BCA",
+    "dob": "Mar 12, 2017",
+    "Gender": "male",
+    "Student_id": 243,
+    "batch": 2012
+  },
+  {
+    "name": "Russell",
+    "father_name": "Mohammad Silva",
+    "branch": "MCA",
+    "dob": "Jun 11, 2021",
+    "Gender": "male",
+    "Student_id": 244,
+    "batch": 2021
+  },
+  {
+    "name": "Zorita",
+    "father_name": "Zelenia Cummings",
+    "branch": "MCA",
+    "dob": "Jul 23, 2019",
+    "Gender": "female",
+    "Student_id": 245,
+    "batch": 2013
+  },
+  {
+    "name": "Dana",
+    "father_name": "Igor Lloyd",
+    "branch": "BCA",
+    "dob": "Apr 15, 2016",
+    "Gender": "male",
+    "Student_id": 246,
+    "batch": 2012
+  },
+  {
+    "name": "Chadwick",
+    "father_name": "Odette Kemp",
+    "branch": "MCA",
+    "dob": "Feb 16, 2020",
+    "Gender": "male",
+    "Student_id": 247,
+    "batch": 2019
+  },
+  {
+    "name": "Sybill",
+    "father_name": "Prescott Finch",
+    "branch": "BCA",
+    "dob": "Aug 29, 2009",
+    "Gender": "female",
+    "Student_id": 248,
+    "batch": 2023
+  },
+  {
+    "name": "Malik",
+    "father_name": "Dolan Velez",
+    "branch": "MCA",
+    "dob": "Sep 21, 2004",
+    "Gender": "male",
+    "Student_id": 249,
+    "batch": 2022
+  },
+  {
+    "name": "Renee",
+    "father_name": "Tallulah Cole",
+    "branch": "BCA",
+    "dob": "Nov 26, 2005",
+    "Gender": "female",
+    "Student_id": 250,
+    "batch": 2011
+  },
+  {
+    "name": "Harlan",
+    "father_name": "Odessa Casey",
+    "branch": "BCA",
+    "dob": "Dec 11, 2012",
+    "Gender": "female",
+    "Student_id": 251,
+    "batch": 2010
+  },
+  {
+    "name": "Josephine",
+    "father_name": "Bradley Gardner",
+    "branch": "MCA",
+    "dob": "Oct 3, 2009",
+    "Gender": "female",
+    "Student_id": 252,
+    "batch": 2012
+  },
+  {
+    "name": "Yetta",
+    "father_name": "Fleur Kim",
+    "branch": "MCA",
+    "dob": "Apr 19, 2013",
+    "Gender": "female",
+    "Student_id": 253,
+    "batch": 2024
+  },
+  {
+    "name": "Barclay",
+    "father_name": "George Levine",
+    "branch": "BCA",
+    "dob": "Jun 8, 2003",
+    "Gender": "male",
+    "Student_id": 254,
+    "batch": 2014
+  },
+  {
+    "name": "Xantha",
+    "father_name": "Ignatius Holloway",
+    "branch": "MCA",
+    "dob": "Dec 2, 2023",
+    "Gender": "female",
+    "Student_id": 255,
+    "batch": 2014
+  },
+  {
+    "name": "Savannah",
+    "father_name": "Lunea Levy",
+    "branch": "MCA",
+    "dob": "Aug 19, 2001",
+    "Gender": "male",
+    "Student_id": 256,
+    "batch": 2023
+  },
+  {
+    "name": "Zane",
+    "father_name": "Asher Kent",
+    "branch": "BCA",
+    "dob": "Oct 14, 2013",
+    "Gender": "female",
+    "Student_id": 257,
+    "batch": 2018
+  },
+  {
+    "name": "Ria",
+    "father_name": "Amaya Martin",
+    "branch": "BCA",
+    "dob": "Jul 6, 2013",
+    "Gender": "female",
+    "Student_id": 258,
+    "batch": 2011
+  },
+  {
+    "name": "Genevieve",
+    "father_name": "Nerea Daniels",
+    "branch": "MCA",
+    "dob": "Feb 20, 2011",
+    "Gender": "female",
+    "Student_id": 259,
+    "batch": 2013
+  },
+  {
+    "name": "Colorado",
+    "father_name": "Hadassah Le",
+    "branch": "BCA",
+    "dob": "Dec 14, 2005",
+    "Gender": "male",
+    "Student_id": 260,
+    "batch": 2011
+  },
+  {
+    "name": "Kay",
+    "father_name": "Roanna Cantrell",
+    "branch": "BCA",
+    "dob": "Apr 9, 2023",
+    "Gender": "female",
+    "Student_id": 261,
+    "batch": 2019
+  },
+  {
+    "name": "Alexis",
+    "father_name": "Declan Ratliff",
+    "branch": "MCA",
+    "dob": "Sep 11, 2009",
+    "Gender": "male",
+    "Student_id": 262,
+    "batch": 2010
+  },
+  {
+    "name": "Asher",
+    "father_name": "Giacomo Guy",
+    "branch": "BCA",
+    "dob": "Jun 17, 2024",
+    "Gender": "male",
+    "Student_id": 263,
+    "batch": 2014
+  },
+  {
+    "name": "Victor",
+    "father_name": "Caleb Ramos",
+    "branch": "MCA",
+    "dob": "Sep 6, 2003",
+    "Gender": "male",
+    "Student_id": 264,
+    "batch": 2025
+  },
+  {
+    "name": "Lance",
+    "father_name": "Ulric Ballard",
+    "branch": "BCA",
+    "dob": "Mar 26, 2018",
+    "Gender": "male",
+    "Student_id": 265,
+    "batch": 2018
+  },
+  {
+    "name": "Anastasia",
+    "father_name": "Myra Gillespie",
+    "branch": "BCA",
+    "dob": "Apr 17, 2014",
+    "Gender": "male",
+    "Student_id": 266,
+    "batch": 2023
+  },
+  {
+    "name": "Noah",
+    "father_name": "Laith Maxwell",
+    "branch": "BCA",
+    "dob": "Aug 19, 2014",
+    "Gender": "female",
+    "Student_id": 267,
+    "batch": 2013
+  },
+  {
+    "name": "Portia",
+    "father_name": "Ferris Schmidt",
+    "branch": "BCA",
+    "dob": "Sep 18, 2001",
+    "Gender": "female",
+    "Student_id": 268,
+    "batch": 2023
+  },
+  {
+    "name": "Deacon",
+    "father_name": "Mufutau Cleveland",
+    "branch": "MCA",
+    "dob": "Jan 19, 2015",
+    "Gender": "male",
+    "Student_id": 269,
+    "batch": 2021
+  },
+  {
+    "name": "Kasper",
+    "father_name": "Ignacia Horn",
+    "branch": "BCA",
+    "dob": "Dec 28, 2014",
+    "Gender": "female",
+    "Student_id": 270,
+    "batch": 2022
+  },
+  {
+    "name": "Cassady",
+    "father_name": "Connor Ashley",
+    "branch": "MCA",
+    "dob": "Jul 6, 2004",
+    "Gender": "female",
+    "Student_id": 271,
+    "batch": 2024
+  },
+  {
+    "name": "Keegan",
+    "father_name": "Driscoll Chapman",
+    "branch": "BCA",
+    "dob": "Jul 19, 2000",
+    "Gender": "female",
+    "Student_id": 272,
+    "batch": 2020
+  },
+  {
+    "name": "Alexandra",
+    "father_name": "Dane Pitts",
+    "branch": "MCA",
+    "dob": "May 18, 2011",
+    "Gender": "male",
+    "Student_id": 273,
+    "batch": 2019
+  },
+  {
+    "name": "Timon",
+    "father_name": "Denise Briggs",
+    "branch": "BCA",
+    "dob": "Oct 1, 2022",
+    "Gender": "female",
+    "Student_id": 274,
+    "batch": 2013
+  },
+  {
+    "name": "Myles",
+    "father_name": "Honorato Roy",
+    "branch": "MCA",
+    "dob": "Feb 8, 2001",
+    "Gender": "male",
+    "Student_id": 275,
+    "batch": 2015
+  },
+  {
+    "name": "Cole",
+    "father_name": "Ruby Glover",
+    "branch": "BCA",
+    "dob": "Sep 27, 2014",
+    "Gender": "female",
+    "Student_id": 276,
+    "batch": 2019
+  },
+  {
+    "name": "Jason",
+    "father_name": "Josiah Mckay",
+    "branch": "BCA",
+    "dob": "Apr 25, 2005",
+    "Gender": "male",
+    "Student_id": 277,
+    "batch": 2012
+  },
+  {
+    "name": "Travis",
+    "father_name": "Hyatt Nash",
+    "branch": "BCA",
+    "dob": "Jun 6, 2005",
+    "Gender": "male",
+    "Student_id": 278,
+    "batch": 2024
+  },
+  {
+    "name": "Malik",
+    "father_name": "Damon Sosa",
+    "branch": "MCA",
+    "dob": "Oct 4, 2011",
+    "Gender": "male",
+    "Student_id": 279,
+    "batch": 2014
+  },
+  {
+    "name": "Malcolm",
+    "father_name": "Sebastian Waters",
+    "branch": "BCA",
+    "dob": "Mar 19, 2011",
+    "Gender": "male",
+    "Student_id": 280,
+    "batch": 2012
+  },
+  {
+    "name": "Althea",
+    "father_name": "Shannon Copeland",
+    "branch": "BCA",
+    "dob": "Jun 20, 2024",
+    "Gender": "male",
+    "Student_id": 281,
+    "batch": 2023
+  },
+  {
+    "name": "Daphne",
+    "father_name": "Alvin Butler",
+    "branch": "BCA",
+    "dob": "Jun 26, 2013",
+    "Gender": "female",
+    "Student_id": 282,
+    "batch": 2017
+  },
+  {
+    "name": "Elvis",
+    "father_name": "Jenette Snow",
+    "branch": "MCA",
+    "dob": "Jul 7, 2009",
+    "Gender": "male",
+    "Student_id": 283,
+    "batch": 2019
+  },
+  {
+    "name": "Kelly",
+    "father_name": "Buffy Valdez",
+    "branch": "MCA",
+    "dob": "Feb 9, 2021",
+    "Gender": "male",
+    "Student_id": 284,
+    "batch": 2017
+  },
+  {
+    "name": "Dillon",
+    "father_name": "Leonard Robbins",
+    "branch": "MCA",
+    "dob": "Dec 17, 2016",
+    "Gender": "female",
+    "Student_id": 285,
+    "batch": 2015
+  },
+  {
+    "name": "Norman",
+    "father_name": "Colleen Mason",
+    "branch": "MCA",
+    "dob": "Jul 14, 2006",
+    "Gender": "female",
+    "Student_id": 286,
+    "batch": 2019
+  },
+  {
+    "name": "Dalton",
+    "father_name": "Candace Mckee",
+    "branch": "BCA",
+    "dob": "Nov 5, 2013",
+    "Gender": "female",
+    "Student_id": 287,
+    "batch": 2024
+  },
+  {
+    "name": "Cody",
+    "father_name": "Zenaida Levine",
+    "branch": "MCA",
+    "dob": "Dec 16, 2015",
+    "Gender": "female",
+    "Student_id": 288,
+    "batch": 2011
+  },
+  {
+    "name": "Ezekiel",
+    "father_name": "Unity Frye",
+    "branch": "BCA",
+    "dob": "Aug 15, 2002",
+    "Gender": "female",
+    "Student_id": 289,
+    "batch": 2015
+  },
+  {
+    "name": "Cameran",
+    "father_name": "Roth Padilla",
+    "branch": "MCA",
+    "dob": "Aug 3, 2019",
+    "Gender": "female",
+    "Student_id": 290,
+    "batch": 2010
+  },
+  {
+    "name": "Shaine",
+    "father_name": "Hasad Hines",
+    "branch": "MCA",
+    "dob": "Apr 22, 2013",
+    "Gender": "female",
+    "Student_id": 291,
+    "batch": 2025
+  },
+  {
+    "name": "Dolan",
+    "father_name": "Upton Mooney",
+    "branch": "BCA",
+    "dob": "Feb 20, 2008",
+    "Gender": "female",
+    "Student_id": 292,
+    "batch": 2024
+  },
+  {
+    "name": "Griffith",
+    "father_name": "Avram Melton",
+    "branch": "BCA",
+    "dob": "Feb 2, 2005",
+    "Gender": "female",
+    "Student_id": 293,
+    "batch": 2022
+  },
+  {
+    "name": "Hasad",
+    "father_name": "Vivian Wade",
+    "branch": "BCA",
+    "dob": "Nov 10, 2021",
+    "Gender": "male",
+    "Student_id": 294,
+    "batch": 2019
+  },
+  {
+    "name": "Cade",
+    "father_name": "Rhiannon Barber",
+    "branch": "BCA",
+    "dob": "Jul 6, 2002",
+    "Gender": "male",
+    "Student_id": 295,
+    "batch": 2020
+  },
+  {
+    "name": "Jason",
+    "father_name": "Raja Little",
+    "branch": "BCA",
+    "dob": "Sep 15, 2010",
+    "Gender": "male",
+    "Student_id": 296,
+    "batch": 2011
+  },
+  {
+    "name": "Rhea",
+    "father_name": "Beau Hartman",
+    "branch": "BCA",
+    "dob": "Jul 3, 2017",
+    "Gender": "male",
+    "Student_id": 297,
+    "batch": 2012
+  },
+  {
+    "name": "Julian",
+    "father_name": "James Finch",
+    "branch": "MCA",
+    "dob": "Jul 2, 2020",
+    "Gender": "male",
+    "Student_id": 298,
+    "batch": 2024
+  },
+  {
+    "name": "Mikayla",
+    "father_name": "Ariana Roman",
+    "branch": "MCA",
+    "dob": "Oct 16, 2015",
+    "Gender": "male",
+    "Student_id": 299,
+    "batch": 2019
+  },
+  {
+    "name": "Eliana",
+    "father_name": "Ira Foster",
+    "branch": "BCA",
+    "dob": "Jul 9, 2018",
+    "Gender": "male",
+    "Student_id": 300,
+    "batch": 2022
+  },
+  {
+    "name": "Reese",
+    "father_name": "Dylan Briggs",
+    "branch": "BCA",
+    "dob": "Sep 15, 2011",
+    "Gender": "female",
+    "Student_id": 301,
+    "batch": 2020
+  },
+  {
+    "name": "Zane",
+    "father_name": "Burke Blair",
+    "branch": "BCA",
+    "dob": "Sep 13, 2024",
+    "Gender": "male",
+    "Student_id": 302,
+    "batch": 2024
+  },
+  {
+    "name": "Kaseem",
+    "father_name": "Alika Nielsen",
+    "branch": "MCA",
+    "dob": "Mar 14, 2002",
+    "Gender": "male",
+    "Student_id": 303,
+    "batch": 2019
+  },
+  {
+    "name": "Carla",
+    "father_name": "Virginia Nielsen",
+    "branch": "BCA",
+    "dob": "Jan 28, 2005",
+    "Gender": "male",
+    "Student_id": 304,
+    "batch": 2015
+  },
+  {
+    "name": "Orli",
+    "father_name": "Philip Leblanc",
+    "branch": "BCA",
+    "dob": "Oct 11, 2008",
+    "Gender": "male",
+    "Student_id": 305,
+    "batch": 2023
+  },
+  {
+    "name": "Chava",
+    "father_name": "Reece Trevino",
+    "branch": "BCA",
+    "dob": "Mar 12, 2010",
+    "Gender": "male",
+    "Student_id": 306,
+    "batch": 2012
+  },
+  {
+    "name": "Zoe",
+    "father_name": "Zeus Haley",
+    "branch": "BCA",
+    "dob": "Nov 16, 2012",
+    "Gender": "male",
+    "Student_id": 307,
+    "batch": 2023
+  },
+  {
+    "name": "Heather",
+    "father_name": "Merritt Howe",
+    "branch": "MCA",
+    "dob": "Apr 4, 2010",
+    "Gender": "female",
+    "Student_id": 308,
+    "batch": 2020
+  },
+  {
+    "name": "Brielle",
+    "father_name": "Elizabeth Guerrero",
+    "branch": "BCA",
+    "dob": "Mar 19, 2016",
+    "Gender": "male",
+    "Student_id": 309,
+    "batch": 2015
+  },
+  {
+    "name": "Daquan",
+    "father_name": "Hammett Keith",
+    "branch": "MCA",
+    "dob": "Dec 23, 2012",
+    "Gender": "female",
+    "Student_id": 310,
+    "batch": 2021
+  },
+  {
+    "name": "Talon",
+    "father_name": "Dante Kemp",
+    "branch": "BCA",
+    "dob": "Jul 19, 2000",
+    "Gender": "female",
+    "Student_id": 311,
+    "batch": 2015
+  },
+  {
+    "name": "Cruz",
+    "father_name": "Hollee Armstrong",
+    "branch": "MCA",
+    "dob": "Jul 21, 2017",
+    "Gender": "female",
+    "Student_id": 312,
+    "batch": 2019
+  },
+  {
+    "name": "Madonna",
+    "father_name": "Leo Bray",
+    "branch": "BCA",
+    "dob": "Jun 24, 2025",
+    "Gender": "male",
+    "Student_id": 313,
+    "batch": 2013
+  },
+  {
+    "name": "Anthony",
+    "father_name": "Patrick Sawyer",
+    "branch": "MCA",
+    "dob": "Jul 15, 2005",
+    "Gender": "female",
+    "Student_id": 314,
+    "batch": 2013
+  },
+  {
+    "name": "Holmes",
+    "father_name": "Michael Barry",
+    "branch": "BCA",
+    "dob": "Mar 5, 2003",
+    "Gender": "male",
+    "Student_id": 315,
+    "batch": 2025
+  },
+  {
+    "name": "Eagan",
+    "father_name": "Idola Dickerson",
+    "branch": "MCA",
+    "dob": "Feb 3, 2011",
+    "Gender": "female",
+    "Student_id": 316,
+    "batch": 2014
+  },
+  {
+    "name": "Beverly",
+    "father_name": "Kelsie Lynch",
+    "branch": "MCA",
+    "dob": "Aug 26, 2023",
+    "Gender": "male",
+    "Student_id": 317,
+    "batch": 2018
+  },
+  {
+    "name": "Julian",
+    "father_name": "Tana Stark",
+    "branch": "BCA",
+    "dob": "Jan 16, 2015",
+    "Gender": "male",
+    "Student_id": 318,
+    "batch": 2020
+  },
+  {
+    "name": "Brock",
+    "father_name": "Xanthus Peck",
+    "branch": "MCA",
+    "dob": "Jun 17, 2011",
+    "Gender": "female",
+    "Student_id": 319,
+    "batch": 2025
+  },
+  {
+    "name": "Geoffrey",
+    "father_name": "TaShya Albert",
+    "branch": "MCA",
+    "dob": "Aug 25, 2014",
+    "Gender": "male",
+    "Student_id": 320,
+    "batch": 2011
+  },
+  {
+    "name": "Joseph",
+    "father_name": "Francis Roy",
+    "branch": "BCA",
+    "dob": "May 4, 2004",
+    "Gender": "male",
+    "Student_id": 321,
+    "batch": 2023
+  },
+  {
+    "name": "Jayme",
+    "father_name": "Channing Dejesus",
+    "branch": "BCA",
+    "dob": "Jan 2, 2010",
+    "Gender": "male",
+    "Student_id": 322,
+    "batch": 2010
+  },
+  {
+    "name": "Joy",
+    "father_name": "Nell Chandler",
+    "branch": "MCA",
+    "dob": "Apr 1, 2016",
+    "Gender": "female",
+    "Student_id": 323,
+    "batch": 2019
+  },
+  {
+    "name": "Igor",
+    "father_name": "Dexter Mendoza",
+    "branch": "MCA",
+    "dob": "Mar 12, 2003",
+    "Gender": "male",
+    "Student_id": 324,
+    "batch": 2023
+  },
+  {
+    "name": "Jonas",
+    "father_name": "Jackson Marquez",
+    "branch": "BCA",
+    "dob": "Aug 25, 2021",
+    "Gender": "male",
+    "Student_id": 325,
+    "batch": 2020
+  },
+  {
+    "name": "Pandora",
+    "father_name": "Callum Murphy",
+    "branch": "BCA",
+    "dob": "Oct 5, 2014",
+    "Gender": "male",
+    "Student_id": 326,
+    "batch": 2020
+  },
+  {
+    "name": "Angelica",
+    "father_name": "Sacha Velasquez",
+    "branch": "BCA",
+    "dob": "Dec 25, 2019",
+    "Gender": "female",
+    "Student_id": 327,
+    "batch": 2011
+  },
+  {
+    "name": "Jordan",
+    "father_name": "Lucas Downs",
+    "branch": "BCA",
+    "dob": "Apr 25, 2006",
+    "Gender": "male",
+    "Student_id": 328,
+    "batch": 2013
+  },
+  {
+    "name": "Burke",
+    "father_name": "Walker Oliver",
+    "branch": "MCA",
+    "dob": "Jan 30, 2020",
+    "Gender": "male",
+    "Student_id": 329,
+    "batch": 2012
+  },
+  {
+    "name": "Brock",
+    "father_name": "Wang Ballard",
+    "branch": "BCA",
+    "dob": "Sep 29, 2005",
+    "Gender": "female",
+    "Student_id": 330,
+    "batch": 2018
+  },
+  {
+    "name": "Maite",
+    "father_name": "Marah Levine",
+    "branch": "BCA",
+    "dob": "Mar 11, 2014",
+    "Gender": "male",
+    "Student_id": 331,
+    "batch": 2010
+  },
+  {
+    "name": "Giacomo",
+    "father_name": "Scott Frost",
+    "branch": "BCA",
+    "dob": "Jul 1, 2012",
+    "Gender": "male",
+    "Student_id": 332,
+    "batch": 2021
+  },
+  {
+    "name": "Lucy",
+    "father_name": "Aiko Whitehead",
+    "branch": "MCA",
+    "dob": "Jan 13, 2016",
+    "Gender": "female",
+    "Student_id": 333,
+    "batch": 2015
+  },
+  {
+    "name": "Kato",
+    "father_name": "Channing Potter",
+    "branch": "MCA",
+    "dob": "Oct 26, 2004",
+    "Gender": "male",
+    "Student_id": 334,
+    "batch": 2017
+  },
+  {
+    "name": "Mariko",
+    "father_name": "Priscilla Petersen",
+    "branch": "MCA",
+    "dob": "Jun 13, 2022",
+    "Gender": "female",
+    "Student_id": 335,
+    "batch": 2021
+  },
+  {
+    "name": "Naida",
+    "father_name": "Matthew Bond",
+    "branch": "BCA",
+    "dob": "Sep 22, 2015",
+    "Gender": "female",
+    "Student_id": 336,
+    "batch": 2012
+  },
+  {
+    "name": "Sydney",
+    "father_name": "Joelle Valenzuela",
+    "branch": "BCA",
+    "dob": "Mar 21, 2017",
+    "Gender": "male",
+    "Student_id": 337,
+    "batch": 2025
+  },
+  {
+    "name": "Timothy",
+    "father_name": "Charde Barlow",
+    "branch": "MCA",
+    "dob": "Nov 1, 2020",
+    "Gender": "male",
+    "Student_id": 338,
+    "batch": 2019
+  },
+  {
+    "name": "Colin",
+    "father_name": "Julie Wooten",
+    "branch": "BCA",
+    "dob": "May 30, 2010",
+    "Gender": "female",
+    "Student_id": 339,
+    "batch": 2023
+  },
+  {
+    "name": "Medge",
+    "father_name": "Justine Montgomery",
+    "branch": "BCA",
+    "dob": "Feb 23, 2004",
+    "Gender": "male",
+    "Student_id": 340,
+    "batch": 2022
+  },
+  {
+    "name": "Nicholas",
+    "father_name": "Bruce Hurst",
+    "branch": "MCA",
+    "dob": "Feb 21, 2005",
+    "Gender": "male",
+    "Student_id": 341,
+    "batch": 2015
+  },
+  {
+    "name": "Amery",
+    "father_name": "Jason Gomez",
+    "branch": "BCA",
+    "dob": "May 29, 2022",
+    "Gender": "male",
+    "Student_id": 342,
+    "batch": 2016
+  },
+  {
+    "name": "Odette",
+    "father_name": "Brooke Mcconnell",
+    "branch": "MCA",
+    "dob": "Jul 5, 2018",
+    "Gender": "male",
+    "Student_id": 343,
+    "batch": 2018
+  },
+  {
+    "name": "Dana",
+    "father_name": "Griffin Wagner",
+    "branch": "MCA",
+    "dob": "Jul 26, 2004",
+    "Gender": "female",
+    "Student_id": 344,
+    "batch": 2011
+  },
+  {
+    "name": "Haley",
+    "father_name": "Eagan Benson",
+    "branch": "BCA",
+    "dob": "Sep 10, 2006",
+    "Gender": "male",
+    "Student_id": 345,
+    "batch": 2021
+  },
+  {
+    "name": "Timon",
+    "father_name": "Chandler Peterson",
+    "branch": "MCA",
+    "dob": "Oct 30, 2015",
+    "Gender": "female",
+    "Student_id": 346,
+    "batch": 2020
+  },
+  {
+    "name": "Ulla",
+    "father_name": "Haviva Franklin",
+    "branch": "MCA",
+    "dob": "Aug 6, 2013",
+    "Gender": "female",
+    "Student_id": 347,
+    "batch": 2014
+  },
+  {
+    "name": "Christopher",
+    "father_name": "Zia Hayden",
+    "branch": "BCA",
+    "dob": "Nov 16, 2012",
+    "Gender": "female",
+    "Student_id": 348,
+    "batch": 2015
+  },
+  {
+    "name": "Hamish",
+    "father_name": "Katell Hicks",
+    "branch": "MCA",
+    "dob": "Sep 19, 2011",
+    "Gender": "male",
+    "Student_id": 349,
+    "batch": 2013
+  },
+  {
+    "name": "Alyssa",
+    "father_name": "Dexter Meyers",
+    "branch": "BCA",
+    "dob": "Feb 3, 2006",
+    "Gender": "male",
+    "Student_id": 350,
+    "batch": 2024
+  },
+  {
+    "name": "Jamal",
+    "father_name": "Paki Ayers",
+    "branch": "MCA",
+    "dob": "Nov 29, 2007",
+    "Gender": "male",
+    "Student_id": 351,
+    "batch": 2010
+  },
+  {
+    "name": "Alden",
+    "father_name": "Tyrone Buck",
+    "branch": "MCA",
+    "dob": "May 14, 2022",
+    "Gender": "female",
+    "Student_id": 352,
+    "batch": 2013
+  },
+  {
+    "name": "Bell",
+    "father_name": "Aidan Clements",
+    "branch": "BCA",
+    "dob": "Oct 1, 2002",
+    "Gender": "female",
+    "Student_id": 353,
+    "batch": 2023
+  },
+  {
+    "name": "Joy",
+    "father_name": "Vanna Huff",
+    "branch": "MCA",
+    "dob": "Jul 2, 2023",
+    "Gender": "female",
+    "Student_id": 354,
+    "batch": 2016
+  },
+  {
+    "name": "Catherine",
+    "father_name": "Lane Bishop",
+    "branch": "BCA",
+    "dob": "Aug 11, 2001",
+    "Gender": "male",
+    "Student_id": 355,
+    "batch": 2022
+  },
+  {
+    "name": "Keely",
+    "father_name": "Gail Hopkins",
+    "branch": "BCA",
+    "dob": "Mar 8, 2015",
+    "Gender": "female",
+    "Student_id": 356,
+    "batch": 2017
+  },
+  {
+    "name": "Garth",
+    "father_name": "Blake Macdonald",
+    "branch": "MCA",
+    "dob": "Jul 29, 2010",
+    "Gender": "male",
+    "Student_id": 357,
+    "batch": 2023
+  },
+  {
+    "name": "Kermit",
+    "father_name": "Leslie Gates",
+    "branch": "BCA",
+    "dob": "Jun 24, 2023",
+    "Gender": "male",
+    "Student_id": 358,
+    "batch": 2015
+  },
+  {
+    "name": "Elliott",
+    "father_name": "Cathleen Webb",
+    "branch": "MCA",
+    "dob": "Apr 13, 2013",
+    "Gender": "female",
+    "Student_id": 359,
+    "batch": 2015
+  },
+  {
+    "name": "Brianna",
+    "father_name": "Brielle Chase",
+    "branch": "BCA",
+    "dob": "Aug 16, 2008",
+    "Gender": "female",
+    "Student_id": 360,
+    "batch": 2017
+  },
+  {
+    "name": "Maggie",
+    "father_name": "Alvin Davis",
+    "branch": "BCA",
+    "dob": "Apr 11, 2003",
+    "Gender": "male",
+    "Student_id": 361,
+    "batch": 2017
+  },
+  {
+    "name": "Reece",
+    "father_name": "Andrew Holman",
+    "branch": "MCA",
+    "dob": "Apr 11, 2012",
+    "Gender": "male",
+    "Student_id": 362,
+    "batch": 2023
+  },
+  {
+    "name": "Oscar",
+    "father_name": "Hanae Galloway",
+    "branch": "MCA",
+    "dob": "Jul 29, 2000",
+    "Gender": "female",
+    "Student_id": 363,
+    "batch": 2013
+  },
+  {
+    "name": "Martha",
+    "father_name": "Melinda Livingston",
+    "branch": "MCA",
+    "dob": "Dec 21, 2022",
+    "Gender": "male",
+    "Student_id": 364,
+    "batch": 2021
+  },
+  {
+    "name": "Latifah",
+    "father_name": "Alexa May",
+    "branch": "BCA",
+    "dob": "Nov 21, 2010",
+    "Gender": "female",
+    "Student_id": 365,
+    "batch": 2016
+  },
+  {
+    "name": "Gregory",
+    "father_name": "Lucian Carroll",
+    "branch": "MCA",
+    "dob": "Jul 3, 2007",
+    "Gender": "male",
+    "Student_id": 366,
+    "batch": 2011
+  },
+  {
+    "name": "Laith",
+    "father_name": "MacKenzie Burch",
+    "branch": "MCA",
+    "dob": "Aug 17, 2000",
+    "Gender": "female",
+    "Student_id": 367,
+    "batch": 2016
+  },
+  {
+    "name": "Ori",
+    "father_name": "Zane Weeks",
+    "branch": "BCA",
+    "dob": "Oct 1, 2011",
+    "Gender": "male",
+    "Student_id": 368,
+    "batch": 2021
+  },
+  {
+    "name": "Laurel",
+    "father_name": "Remedios Adams",
+    "branch": "BCA",
+    "dob": "Nov 9, 2001",
+    "Gender": "female",
+    "Student_id": 369,
+    "batch": 2010
+  },
+  {
+    "name": "Abbot",
+    "father_name": "Claudia Benjamin",
+    "branch": "BCA",
+    "dob": "Nov 7, 2014",
+    "Gender": "female",
+    "Student_id": 370,
+    "batch": 2014
+  },
+  {
+    "name": "Kasper",
+    "father_name": "Shea Espinoza",
+    "branch": "MCA",
+    "dob": "Nov 30, 2024",
+    "Gender": "female",
+    "Student_id": 371,
+    "batch": 2010
+  },
+  {
+    "name": "Iliana",
+    "father_name": "Imogene Haley",
+    "branch": "MCA",
+    "dob": "May 17, 2008",
+    "Gender": "female",
+    "Student_id": 372,
+    "batch": 2020
+  },
+  {
+    "name": "Nicholas",
+    "father_name": "Robin Rojas",
+    "branch": "BCA",
+    "dob": "Jun 26, 2017",
+    "Gender": "female",
+    "Student_id": 373,
+    "batch": 2011
+  },
+  {
+    "name": "Eleanor",
+    "father_name": "Meredith Calderon",
+    "branch": "BCA",
+    "dob": "Dec 30, 2000",
+    "Gender": "male",
+    "Student_id": 374,
+    "batch": 2012
+  },
+  {
+    "name": "Ivor",
+    "father_name": "Tyrone Bradford",
+    "branch": "BCA",
+    "dob": "Nov 18, 2022",
+    "Gender": "female",
+    "Student_id": 375,
+    "batch": 2018
+  },
+  {
+    "name": "Gabriel",
+    "father_name": "Basil Moon",
+    "branch": "BCA",
+    "dob": "Feb 1, 2021",
+    "Gender": "female",
+    "Student_id": 376,
+    "batch": 2014
+  },
+  {
+    "name": "Zia",
+    "father_name": "Randall Anderson",
+    "branch": "MCA",
+    "dob": "Mar 7, 2014",
+    "Gender": "female",
+    "Student_id": 377,
+    "batch": 2011
+  },
+  {
+    "name": "Lara",
+    "father_name": "Maisie Hester",
+    "branch": "MCA",
+    "dob": "Mar 3, 2015",
+    "Gender": "female",
+    "Student_id": 378,
+    "batch": 2011
+  },
+  {
+    "name": "Julie",
+    "father_name": "Lance Workman",
+    "branch": "BCA",
+    "dob": "Dec 17, 2021",
+    "Gender": "male",
+    "Student_id": 379,
+    "batch": 2025
+  },
+  {
+    "name": "Gavin",
+    "father_name": "Lev Rhodes",
+    "branch": "MCA",
+    "dob": "Apr 19, 2010",
+    "Gender": "female",
+    "Student_id": 380,
+    "batch": 2011
+  },
+  {
+    "name": "Freya",
+    "father_name": "Ashton Dunn",
+    "branch": "MCA",
+    "dob": "Apr 20, 2012",
+    "Gender": "female",
+    "Student_id": 381,
+    "batch": 2016
+  },
+  {
+    "name": "Rafael",
+    "father_name": "Adrienne Conrad",
+    "branch": "BCA",
+    "dob": "Oct 14, 2016",
+    "Gender": "female",
+    "Student_id": 382,
+    "batch": 2016
+  },
+  {
+    "name": "Kato",
+    "father_name": "Adrian Carlson",
+    "branch": "BCA",
+    "dob": "Mar 20, 2010",
+    "Gender": "female",
+    "Student_id": 383,
+    "batch": 2011
+  },
+  {
+    "name": "Cara",
+    "father_name": "Jael Larson",
+    "branch": "MCA",
+    "dob": "Mar 20, 2010",
+    "Gender": "female",
+    "Student_id": 384,
+    "batch": 2018
+  },
+  {
+    "name": "Kenyon",
+    "father_name": "Cameran Oneil",
+    "branch": "MCA",
+    "dob": "Mar 27, 2003",
+    "Gender": "female",
+    "Student_id": 385,
+    "batch": 2025
+  },
+  {
+    "name": "Justine",
+    "father_name": "Keelie Bennett",
+    "branch": "BCA",
+    "dob": "Oct 10, 2000",
+    "Gender": "male",
+    "Student_id": 386,
+    "batch": 2012
+  },
+  {
+    "name": "Bruce",
+    "father_name": "Kellie Haynes",
+    "branch": "BCA",
+    "dob": "May 19, 2011",
+    "Gender": "female",
+    "Student_id": 387,
+    "batch": 2022
+  },
+  {
+    "name": "Lila",
+    "father_name": "Ginger Joseph",
+    "branch": "MCA",
+    "dob": "Dec 31, 2002",
+    "Gender": "female",
+    "Student_id": 388,
+    "batch": 2018
+  },
+  {
+    "name": "Zia",
+    "father_name": "Dominic Douglas",
+    "branch": "BCA",
+    "dob": "Aug 19, 2013",
+    "Gender": "male",
+    "Student_id": 389,
+    "batch": 2022
+  },
+  {
+    "name": "Kenneth",
+    "father_name": "William Ball",
+    "branch": "MCA",
+    "dob": "Jan 24, 2012",
+    "Gender": "male",
+    "Student_id": 390,
+    "batch": 2018
+  },
+  {
+    "name": "Abra",
+    "father_name": "Hammett Weiss",
+    "branch": "BCA",
+    "dob": "May 27, 2003",
+    "Gender": "male",
+    "Student_id": 391,
+    "batch": 2016
+  },
+  {
+    "name": "Daquan",
+    "father_name": "Octavius Adams",
+    "branch": "MCA",
+    "dob": "Jul 10, 2018",
+    "Gender": "male",
+    "Student_id": 392,
+    "batch": 2024
+  },
+  {
+    "name": "Reuben",
+    "father_name": "Oleg Erickson",
+    "branch": "MCA",
+    "dob": "May 29, 2010",
+    "Gender": "male",
+    "Student_id": 393,
+    "batch": 2016
+  },
+  {
+    "name": "Lyle",
+    "father_name": "Noelle Mcgowan",
+    "branch": "BCA",
+    "dob": "Sep 6, 2009",
+    "Gender": "male",
+    "Student_id": 394,
+    "batch": 2022
+  },
+  {
+    "name": "Merrill",
+    "father_name": "Coby Callahan",
+    "branch": "MCA",
+    "dob": "Sep 30, 2004",
+    "Gender": "female",
+    "Student_id": 395,
+    "batch": 2013
+  },
+  {
+    "name": "Samantha",
+    "father_name": "Hollee Rowland",
+    "branch": "BCA",
+    "dob": "Jan 2, 2013",
+    "Gender": "female",
+    "Student_id": 396,
+    "batch": 2011
+  },
+  {
+    "name": "Azalia",
+    "father_name": "Jeanette Nieves",
+    "branch": "MCA",
+    "dob": "Jan 6, 2009",
+    "Gender": "female",
+    "Student_id": 397,
+    "batch": 2014
+  },
+  {
+    "name": "Thor",
+    "father_name": "Colton Trevino",
+    "branch": "MCA",
+    "dob": "Feb 12, 2004",
+    "Gender": "female",
+    "Student_id": 398,
+    "batch": 2022
+  },
+  {
+    "name": "Ursa",
+    "father_name": "Julian Sanford",
+    "branch": "BCA",
+    "dob": "Mar 12, 2010",
+    "Gender": "male",
+    "Student_id": 399,
+    "batch": 2013
+  },
+  {
+    "name": "Hanae",
+    "father_name": "Ivana Wiley",
+    "branch": "MCA",
+    "dob": "Mar 25, 2009",
+    "Gender": "male",
+    "Student_id": 400,
+    "batch": 2024
+  },
+  {
+    "name": "Camden",
+    "father_name": "Orson Mann",
+    "branch": "MCA",
+    "dob": "Nov 20, 2014",
+    "Gender": "male",
+    "Student_id": 401,
+    "batch": 2020
+  },
+  {
+    "name": "Alice",
+    "father_name": "Hamilton Henderson",
+    "branch": "MCA",
+    "dob": "Oct 6, 2004",
+    "Gender": "male",
+    "Student_id": 402,
+    "batch": 2017
+  },
+  {
+    "name": "Kiara",
+    "father_name": "Meghan Bond",
+    "branch": "MCA",
+    "dob": "Mar 23, 2006",
+    "Gender": "male",
+    "Student_id": 403,
+    "batch": 2022
+  },
+  {
+    "name": "Sylvester",
+    "father_name": "Kelly Wiggins",
+    "branch": "BCA",
+    "dob": "Dec 3, 2005",
+    "Gender": "female",
+    "Student_id": 404,
+    "batch": 2023
+  },
+  {
+    "name": "Astra",
+    "father_name": "Channing Bowen",
+    "branch": "BCA",
+    "dob": "May 31, 2017",
+    "Gender": "male",
+    "Student_id": 405,
+    "batch": 2012
+  },
+  {
+    "name": "Christen",
+    "father_name": "Buckminster Flores",
+    "branch": "BCA",
+    "dob": "Feb 6, 2011",
+    "Gender": "male",
+    "Student_id": 406,
+    "batch": 2014
+  },
+  {
+    "name": "Amaya",
+    "father_name": "Imani Hurst",
+    "branch": "BCA",
+    "dob": "May 20, 2008",
+    "Gender": "female",
+    "Student_id": 407,
+    "batch": 2016
+  },
+  {
+    "name": "Dean",
+    "father_name": "Ursa Wilder",
+    "branch": "BCA",
+    "dob": "May 13, 2022",
+    "Gender": "female",
+    "Student_id": 408,
+    "batch": 2013
+  },
+  {
+    "name": "Raymond",
+    "father_name": "Ruby Mclaughlin",
+    "branch": "MCA",
+    "dob": "Aug 28, 2019",
+    "Gender": "female",
+    "Student_id": 409,
+    "batch": 2025
+  },
+  {
+    "name": "Aline",
+    "father_name": "Rhoda Monroe",
+    "branch": "BCA",
+    "dob": "Apr 13, 2021",
+    "Gender": "female",
+    "Student_id": 410,
+    "batch": 2020
+  },
+  {
+    "name": "Quail",
+    "father_name": "Yolanda Nielsen",
+    "branch": "MCA",
+    "dob": "May 23, 2005",
+    "Gender": "male",
+    "Student_id": 411,
+    "batch": 2017
+  },
+  {
+    "name": "Rigel",
+    "father_name": "Stone Levy",
+    "branch": "BCA",
+    "dob": "May 1, 2009",
+    "Gender": "female",
+    "Student_id": 412,
+    "batch": 2023
+  },
+  {
+    "name": "Holmes",
+    "father_name": "Nicholas Burt",
+    "branch": "MCA",
+    "dob": "Mar 5, 2020",
+    "Gender": "female",
+    "Student_id": 413,
+    "batch": 2018
+  },
+  {
+    "name": "Basil",
+    "father_name": "Zenaida Craft",
+    "branch": "BCA",
+    "dob": "Jul 3, 2002",
+    "Gender": "male",
+    "Student_id": 414,
+    "batch": 2025
+  },
+  {
+    "name": "Veronica",
+    "father_name": "Alana Dean",
+    "branch": "MCA",
+    "dob": "Mar 3, 2023",
+    "Gender": "male",
+    "Student_id": 415,
+    "batch": 2021
+  },
+  {
+    "name": "Sawyer",
+    "father_name": "Walter Manning",
+    "branch": "MCA",
+    "dob": "Aug 2, 2014",
+    "Gender": "male",
+    "Student_id": 416,
+    "batch": 2011
+  },
+  {
+    "name": "Allistair",
+    "father_name": "Colby Pope",
+    "branch": "BCA",
+    "dob": "Oct 3, 2021",
+    "Gender": "male",
+    "Student_id": 417,
+    "batch": 2013
+  },
+  {
+    "name": "Latifah",
+    "father_name": "Jolene Meyers",
+    "branch": "BCA",
+    "dob": "Oct 18, 2006",
+    "Gender": "male",
+    "Student_id": 418,
+    "batch": 2012
+  },
+  {
+    "name": "Georgia",
+    "father_name": "MacKenzie Hudson",
+    "branch": "BCA",
+    "dob": "Nov 4, 2016",
+    "Gender": "female",
+    "Student_id": 419,
+    "batch": 2012
+  },
+  {
+    "name": "Trevor",
+    "father_name": "Brynne Reese",
+    "branch": "MCA",
+    "dob": "Sep 25, 2024",
+    "Gender": "male",
+    "Student_id": 420,
+    "batch": 2017
+  },
+  {
+    "name": "Keaton",
+    "father_name": "Elmo Perez",
+    "branch": "MCA",
+    "dob": "Aug 9, 2020",
+    "Gender": "male",
+    "Student_id": 421,
+    "batch": 2016
+  },
+  {
+    "name": "Raymond",
+    "father_name": "Kenyon Moreno",
+    "branch": "MCA",
+    "dob": "Jun 20, 2014",
+    "Gender": "male",
+    "Student_id": 422,
+    "batch": 2024
+  },
+  {
+    "name": "Perry",
+    "father_name": "Ray Lang",
+    "branch": "BCA",
+    "dob": "Nov 27, 2015",
+    "Gender": "male",
+    "Student_id": 423,
+    "batch": 2014
+  },
+  {
+    "name": "Tyler",
+    "father_name": "Curran Maddox",
+    "branch": "BCA",
+    "dob": "Jul 20, 2010",
+    "Gender": "male",
+    "Student_id": 424,
+    "batch": 2017
+  },
+  {
+    "name": "Julian",
+    "father_name": "Martena Pearson",
+    "branch": "MCA",
+    "dob": "Dec 28, 2013",
+    "Gender": "female",
+    "Student_id": 425,
+    "batch": 2014
+  },
+  {
+    "name": "Cruz",
+    "father_name": "Raymond Waller",
+    "branch": "MCA",
+    "dob": "Jan 6, 2011",
+    "Gender": "male",
+    "Student_id": 426,
+    "batch": 2023
+  },
+  {
+    "name": "Marvin",
+    "father_name": "Megan Rogers",
+    "branch": "MCA",
+    "dob": "Oct 31, 2015",
+    "Gender": "male",
+    "Student_id": 427,
+    "batch": 2024
+  },
+  {
+    "name": "Bruce",
+    "father_name": "Illana Gamble",
+    "branch": "MCA",
+    "dob": "May 21, 2011",
+    "Gender": "female",
+    "Student_id": 428,
+    "batch": 2010
+  },
+  {
+    "name": "Kamal",
+    "father_name": "Bradley Mclean",
+    "branch": "BCA",
+    "dob": "Aug 24, 2015",
+    "Gender": "female",
+    "Student_id": 429,
+    "batch": 2018
+  },
+  {
+    "name": "Harriet",
+    "father_name": "Rosalyn Mayer",
+    "branch": "BCA",
+    "dob": "Jan 10, 2024",
+    "Gender": "male",
+    "Student_id": 430,
+    "batch": 2022
+  },
+  {
+    "name": "Giacomo",
+    "father_name": "Joan Kerr",
+    "branch": "BCA",
+    "dob": "Nov 27, 2007",
+    "Gender": "female",
+    "Student_id": 431,
+    "batch": 2023
+  },
+  {
+    "name": "Ryan",
+    "father_name": "Shad Roberson",
+    "branch": "MCA",
+    "dob": "Dec 28, 2023",
+    "Gender": "female",
+    "Student_id": 432,
+    "batch": 2013
+  },
+  {
+    "name": "Bert",
+    "father_name": "Ila Macdonald",
+    "branch": "MCA",
+    "dob": "Mar 24, 2025",
+    "Gender": "female",
+    "Student_id": 433,
+    "batch": 2013
+  },
+  {
+    "name": "Byron",
+    "father_name": "Demetrius Lee",
+    "branch": "BCA",
+    "dob": "Mar 12, 2020",
+    "Gender": "female",
+    "Student_id": 434,
+    "batch": 2013
+  },
+  {
+    "name": "Kerry",
+    "father_name": "Zachery Peck",
+    "branch": "MCA",
+    "dob": "Jun 14, 2010",
+    "Gender": "male",
+    "Student_id": 435,
+    "batch": 2023
+  },
+  {
+    "name": "September",
+    "father_name": "Alma Carver",
+    "branch": "MCA",
+    "dob": "May 19, 2010",
+    "Gender": "female",
+    "Student_id": 436,
+    "batch": 2011
+  },
+  {
+    "name": "Alden",
+    "father_name": "Florence Evans",
+    "branch": "MCA",
+    "dob": "Jul 19, 2009",
+    "Gender": "male",
+    "Student_id": 437,
+    "batch": 2021
+  },
+  {
+    "name": "Jolie",
+    "father_name": "Keith Guerrero",
+    "branch": "BCA",
+    "dob": "Apr 2, 2003",
+    "Gender": "male",
+    "Student_id": 438,
+    "batch": 2011
+  },
+  {
+    "name": "Astra",
+    "father_name": "Jack Vasquez",
+    "branch": "MCA",
+    "dob": "Apr 22, 2015",
+    "Gender": "male",
+    "Student_id": 439,
+    "batch": 2020
+  },
+  {
+    "name": "Aurora",
+    "father_name": "Caryn Stevens",
+    "branch": "BCA",
+    "dob": "Jul 7, 2012",
+    "Gender": "male",
+    "Student_id": 440,
+    "batch": 2011
+  },
+  {
+    "name": "Palmer",
+    "father_name": "Troy Tran",
+    "branch": "MCA",
+    "dob": "Dec 1, 2013",
+    "Gender": "male",
+    "Student_id": 441,
+    "batch": 2012
+  },
+  {
+    "name": "Sebastian",
+    "father_name": "Ryan Lamb",
+    "branch": "MCA",
+    "dob": "Jun 29, 2021",
+    "Gender": "male",
+    "Student_id": 442,
+    "batch": 2022
+  },
+  {
+    "name": "Castor",
+    "father_name": "Nicholas Wright",
+    "branch": "MCA",
+    "dob": "Mar 8, 2022",
+    "Gender": "male",
+    "Student_id": 443,
+    "batch": 2014
+  },
+  {
+    "name": "Jackson",
+    "father_name": "Keelie Beach",
+    "branch": "MCA",
+    "dob": "Jun 5, 2003",
+    "Gender": "female",
+    "Student_id": 444,
+    "batch": 2014
+  },
+  {
+    "name": "Hashim",
+    "father_name": "Giacomo Hubbard",
+    "branch": "MCA",
+    "dob": "Oct 16, 2017",
+    "Gender": "female",
+    "Student_id": 445,
+    "batch": 2016
+  },
+  {
+    "name": "Keaton",
+    "father_name": "Amy Freeman",
+    "branch": "BCA",
+    "dob": "Jun 19, 2020",
+    "Gender": "female",
+    "Student_id": 446,
+    "batch": 2012
+  },
+  {
+    "name": "Sybil",
+    "father_name": "Hermione Harris",
+    "branch": "BCA",
+    "dob": "Aug 15, 2014",
+    "Gender": "male",
+    "Student_id": 447,
+    "batch": 2018
+  },
+  {
+    "name": "Keane",
+    "father_name": "Camden Owens",
+    "branch": "MCA",
+    "dob": "Apr 30, 2015",
+    "Gender": "female",
+    "Student_id": 448,
+    "batch": 2017
+  },
+  {
+    "name": "Angelica",
+    "father_name": "Wyatt Benson",
+    "branch": "MCA",
+    "dob": "May 23, 2010",
+    "Gender": "male",
+    "Student_id": 449,
+    "batch": 2011
+  },
+  {
+    "name": "Jameson",
+    "father_name": "Myles Trujillo",
+    "branch": "BCA",
+    "dob": "Dec 2, 2024",
+    "Gender": "male",
+    "Student_id": 450,
+    "batch": 2019
+  },
+  {
+    "name": "Cyrus",
+    "father_name": "Slade Luna",
+    "branch": "BCA",
+    "dob": "Oct 29, 2010",
+    "Gender": "male",
+    "Student_id": 451,
+    "batch": 2024
+  },
+  {
+    "name": "Aretha",
+    "father_name": "Walker Cantrell",
+    "branch": "MCA",
+    "dob": "Sep 24, 2006",
+    "Gender": "female",
+    "Student_id": 452,
+    "batch": 2012
+  },
+  {
+    "name": "Stephanie",
+    "father_name": "Norman Booth",
+    "branch": "MCA",
+    "dob": "Dec 31, 2018",
+    "Gender": "female",
+    "Student_id": 453,
+    "batch": 2015
+  },
+  {
+    "name": "Sylvester",
+    "father_name": "Cleo Owens",
+    "branch": "MCA",
+    "dob": "Aug 20, 2020",
+    "Gender": "male",
+    "Student_id": 454,
+    "batch": 2019
+  },
+  {
+    "name": "Miranda",
+    "father_name": "Oliver Manning",
+    "branch": "BCA",
+    "dob": "Jun 30, 2024",
+    "Gender": "female",
+    "Student_id": 455,
+    "batch": 2024
+  },
+  {
+    "name": "Lamar",
+    "father_name": "Diana Jacobson",
+    "branch": "BCA",
+    "dob": "Mar 20, 2003",
+    "Gender": "male",
+    "Student_id": 456,
+    "batch": 2022
+  },
+  {
+    "name": "Carter",
+    "father_name": "Wyoming Mann",
+    "branch": "BCA",
+    "dob": "Apr 4, 2008",
+    "Gender": "male",
+    "Student_id": 457,
+    "batch": 2011
+  },
+  {
+    "name": "Avram",
+    "father_name": "Alfreda Burch",
+    "branch": "MCA",
+    "dob": "Jan 14, 2021",
+    "Gender": "male",
+    "Student_id": 458,
+    "batch": 2011
+  },
+  {
+    "name": "Mara",
+    "father_name": "Kalia Wallace",
+    "branch": "BCA",
+    "dob": "Feb 2, 2009",
+    "Gender": "male",
+    "Student_id": 459,
+    "batch": 2010
+  },
+  {
+    "name": "Jolene",
+    "father_name": "Adele Neal",
+    "branch": "MCA",
+    "dob": "Mar 8, 2012",
+    "Gender": "male",
+    "Student_id": 460,
+    "batch": 2024
+  },
+  {
+    "name": "Lamar",
+    "father_name": "Shaeleigh Bowers",
+    "branch": "MCA",
+    "dob": "May 12, 2020",
+    "Gender": "female",
+    "Student_id": 461,
+    "batch": 2010
+  },
+  {
+    "name": "Kasper",
+    "father_name": "Joshua Horn",
+    "branch": "MCA",
+    "dob": "May 4, 2012",
+    "Gender": "female",
+    "Student_id": 462,
+    "batch": 2021
+  },
+  {
+    "name": "Hedwig",
+    "father_name": "Zoe Harris",
+    "branch": "BCA",
+    "dob": "Apr 9, 2010",
+    "Gender": "female",
+    "Student_id": 463,
+    "batch": 2014
+  },
+  {
+    "name": "Julie",
+    "father_name": "Zachery Munoz",
+    "branch": "MCA",
+    "dob": "May 10, 2001",
+    "Gender": "male",
+    "Student_id": 464,
+    "batch": 2016
+  },
+  {
+    "name": "Kareem",
+    "father_name": "Chanda Sanders",
+    "branch": "MCA",
+    "dob": "Mar 8, 2023",
+    "Gender": "male",
+    "Student_id": 465,
+    "batch": 2023
+  },
+  {
+    "name": "Rashad",
+    "father_name": "Cedric Price",
+    "branch": "BCA",
+    "dob": "May 29, 2007",
+    "Gender": "female",
+    "Student_id": 466,
+    "batch": 2025
+  },
+  {
+    "name": "Dexter",
+    "father_name": "Neville Black",
+    "branch": "MCA",
+    "dob": "Jun 17, 2025",
+    "Gender": "male",
+    "Student_id": 467,
+    "batch": 2025
+  },
+  {
+    "name": "Iona",
+    "father_name": "Madison Pugh",
+    "branch": "BCA",
+    "dob": "Mar 21, 2020",
+    "Gender": "female",
+    "Student_id": 468,
+    "batch": 2018
+  },
+  {
+    "name": "Jemima",
+    "father_name": "Austin Bowen",
+    "branch": "BCA",
+    "dob": "Aug 3, 2013",
+    "Gender": "female",
+    "Student_id": 469,
+    "batch": 2015
+  },
+  {
+    "name": "Karly",
+    "father_name": "Leila Finch",
+    "branch": "BCA",
+    "dob": "Mar 15, 2025",
+    "Gender": "male",
+    "Student_id": 470,
+    "batch": 2018
+  },
+  {
+    "name": "Chava",
+    "father_name": "Salvador Chase",
+    "branch": "MCA",
+    "dob": "Jan 31, 2018",
+    "Gender": "female",
+    "Student_id": 471,
+    "batch": 2019
+  },
+  {
+    "name": "Lael",
+    "father_name": "Buffy Ferrell",
+    "branch": "BCA",
+    "dob": "Sep 12, 2023",
+    "Gender": "male",
+    "Student_id": 472,
+    "batch": 2012
+  },
+  {
+    "name": "Bevis",
+    "father_name": "Jack Becker",
+    "branch": "MCA",
+    "dob": "Nov 25, 2020",
+    "Gender": "female",
+    "Student_id": 473,
+    "batch": 2016
+  },
+  {
+    "name": "Kyla",
+    "father_name": "Elizabeth Williamson",
+    "branch": "MCA",
+    "dob": "May 23, 2012",
+    "Gender": "female",
+    "Student_id": 474,
+    "batch": 2018
+  },
+  {
+    "name": "Samson",
+    "father_name": "Asher Carver",
+    "branch": "MCA",
+    "dob": "Sep 4, 2010",
+    "Gender": "female",
+    "Student_id": 475,
+    "batch": 2016
+  },
+  {
+    "name": "Abel",
+    "father_name": "Desirae Preston",
+    "branch": "MCA",
+    "dob": "Sep 5, 2023",
+    "Gender": "female",
+    "Student_id": 476,
+    "batch": 2014
+  },
+  {
+    "name": "Thor",
+    "father_name": "Adam Conley",
+    "branch": "MCA",
+    "dob": "Jan 16, 2021",
+    "Gender": "male",
+    "Student_id": 477,
+    "batch": 2019
+  },
+  {
+    "name": "Amber",
+    "father_name": "Rhona Schroeder",
+    "branch": "MCA",
+    "dob": "Apr 17, 2020",
+    "Gender": "male",
+    "Student_id": 478,
+    "batch": 2018
+  },
+  {
+    "name": "Carissa",
+    "father_name": "Kennan Sandoval",
+    "branch": "BCA",
+    "dob": "Aug 5, 2014",
+    "Gender": "male",
+    "Student_id": 479,
+    "batch": 2014
+  },
+  {
+    "name": "Vivian",
+    "father_name": "Isaac Stevenson",
+    "branch": "BCA",
+    "dob": "Jan 29, 2022",
+    "Gender": "female",
+    "Student_id": 480,
+    "batch": 2022
+  },
+  {
+    "name": "Blythe",
+    "father_name": "Charde Preston",
+    "branch": "MCA",
+    "dob": "Jan 9, 2015",
+    "Gender": "female",
+    "Student_id": 481,
+    "batch": 2017
+  },
+  {
+    "name": "Josiah",
+    "father_name": "Mannix Trevino",
+    "branch": "MCA",
+    "dob": "Nov 15, 2021",
+    "Gender": "male",
+    "Student_id": 482,
+    "batch": 2011
+  },
+  {
+    "name": "Wayne",
+    "father_name": "Rosalyn Downs",
+    "branch": "BCA",
+    "dob": "Feb 14, 2001",
+    "Gender": "female",
+    "Student_id": 483,
+    "batch": 2019
+  },
+  {
+    "name": "Noel",
+    "father_name": "Jonas Jennings",
+    "branch": "BCA",
+    "dob": "Jan 15, 2013",
+    "Gender": "male",
+    "Student_id": 484,
+    "batch": 2022
+  },
+  {
+    "name": "Kibo",
+    "father_name": "Jonah Moody",
+    "branch": "BCA",
+    "dob": "Oct 25, 2011",
+    "Gender": "male",
+    "Student_id": 485,
+    "batch": 2015
+  },
+  {
+    "name": "Unity",
+    "father_name": "Felix Landry",
+    "branch": "BCA",
+    "dob": "Apr 15, 2011",
+    "Gender": "female",
+    "Student_id": 486,
+    "batch": 2021
+  },
+  {
+    "name": "Tad",
+    "father_name": "Zeus Ross",
+    "branch": "BCA",
+    "dob": "Aug 19, 2010",
+    "Gender": "male",
+    "Student_id": 487,
+    "batch": 2012
+  },
+  {
+    "name": "Kiara",
+    "father_name": "Ross Greer",
+    "branch": "MCA",
+    "dob": "Sep 8, 2014",
+    "Gender": "male",
+    "Student_id": 488,
+    "batch": 2014
+  },
+  {
+    "name": "Lyle",
+    "father_name": "Ivy Watson",
+    "branch": "BCA",
+    "dob": "Nov 2, 2014",
+    "Gender": "female",
+    "Student_id": 489,
+    "batch": 2013
+  },
+  {
+    "name": "Yuli",
+    "father_name": "Aretha Clayton",
+    "branch": "MCA",
+    "dob": "Jun 28, 2015",
+    "Gender": "male",
+    "Student_id": 490,
+    "batch": 2024
+  },
+  {
+    "name": "Avram",
+    "father_name": "Keiko Gregory",
+    "branch": "BCA",
+    "dob": "Oct 28, 2022",
+    "Gender": "female",
+    "Student_id": 491,
+    "batch": 2020
+  },
+  {
+    "name": "Zane",
+    "father_name": "Tatum Sweet",
+    "branch": "MCA",
+    "dob": "Mar 14, 2019",
+    "Gender": "female",
+    "Student_id": 492,
+    "batch": 2010
+  },
+  {
+    "name": "Hedwig",
+    "father_name": "Henry Blake",
+    "branch": "BCA",
+    "dob": "Oct 29, 2010",
+    "Gender": "female",
+    "Student_id": 493,
+    "batch": 2016
+  },
+  {
+    "name": "Morgan",
+    "father_name": "Isabella Bishop",
+    "branch": "MCA",
+    "dob": "Jun 30, 2022",
+    "Gender": "male",
+    "Student_id": 494,
+    "batch": 2022
+  },
+  {
+    "name": "Stella",
+    "father_name": "Jane Lucas",
+    "branch": "MCA",
+    "dob": "Dec 3, 2016",
+    "Gender": "male",
+    "Student_id": 495,
+    "batch": 2025
+  },
+  {
+    "name": "Slade",
+    "father_name": "Jillian Meyer",
+    "branch": "MCA",
+    "dob": "Aug 9, 2005",
+    "Gender": "female",
+    "Student_id": 496,
+    "batch": 2016
+  },
+  {
+    "name": "Otto",
+    "father_name": "Cadman Gibbs",
+    "branch": "BCA",
+    "dob": "Jun 6, 2013",
+    "Gender": "female",
+    "Student_id": 497,
+    "batch": 2015
+  },
+  {
+    "name": "Ebony",
+    "father_name": "Leslie Sweet",
+    "branch": "MCA",
+    "dob": "Feb 18, 2024",
+    "Gender": "female",
+    "Student_id": 498,
+    "batch": 2010
+  },
+  {
+    "name": "Hedwig",
+    "father_name": "Thomas Montoya",
+    "branch": "BCA",
+    "dob": "Jul 15, 2019",
+    "Gender": "male",
+    "Student_id": 499,
+    "batch": 2016
+  },
+  {
+    "name": "Ezra",
+    "father_name": "Silas Joyce",
+    "branch": "MCA",
+    "dob": "Mar 7, 2025",
+    "Gender": "female",
+    "Student_id": 500,
+    "batch": 2014
+  }
+]
